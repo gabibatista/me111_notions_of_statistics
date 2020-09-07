@@ -1,0 +1,1907 @@
+"","uf","tipo_doenca","local_obito","faixa_etaria","sexo","total"
+"1","DF","Outras doenças","DOMICILIO","<= 39","F",3
+"2","DF","Outras doenças","HOSPITAL","<= 39","F",71
+"3","DF","Outras doenças","HOSPITAL","<= 39","M",85
+"4","DF","Outras doenças","OUTRO","<= 39","M",1
+"5","DF","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","F",2
+"6","DF","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","M",4
+"7","DF","COVID-19","HOSPITAL","<= 39","F",2
+"8","DF","Outras doenças","HOSPITAL","<= 39","F",2
+"9","DF","Outras doenças","HOSPITAL","<= 39","M",1
+"10","DF","Outras doenças respiratórias","HOSPITAL","<= 39","F",22
+"11","DF","Outras doenças respiratórias","HOSPITAL","<= 39","M",20
+"12","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","M",1
+"13","DF","Outras doenças respiratórias","HOSPITAL","<= 39","F",6
+"14","DF","Outras doenças respiratórias","HOSPITAL","<= 39","M",10
+"15","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","F",1
+"16","DF","Outras doenças respiratórias","HOSPITAL","<= 39","F",41
+"17","DF","Outras doenças respiratórias","HOSPITAL","<= 39","M",42
+"18","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","F",1
+"19","DF","Outras doenças respiratórias","HOSPITAL","<= 39","F",5
+"20","DF","Outras doenças respiratórias","HOSPITAL","<= 39","M",3
+"21","MG","Outras doenças","DOMICILIO","<= 39","F",22
+"22","MG","Outras doenças","DOMICILIO","<= 39","M",26
+"23","MG","Outras doenças","HOSPITAL","<= 39","F",387
+"25","MG","Outras doenças","HOSPITAL","<= 39","M",436
+"26","MG","Outras doenças","IGNORADO","<= 39","F",11
+"28","MG","Outras doenças","IGNORADO","<= 39","M",7
+"29","MG","Outras doenças","OUTRO","<= 39","F",1
+"30","MG","Outras doenças","OUTRO","<= 39","M",3
+"31","MG","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","F",7
+"32","MG","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","M",10
+"33","MG","Outras doenças","VIA_PUBLICA","<= 39","F",3
+"34","MG","Outras doenças","VIA_PUBLICA","<= 39","M",5
+"35","MG","COVID-19","HOSPITAL","<= 39","F",1
+"36","MG","COVID-19","HOSPITAL","<= 39","M",2
+"37","MG","COVID-19","OUTROS_SERVICOS_SAUDE","<= 39","M",1
+"38","MG","Outras doenças","DOMICILIO","<= 39","M",1
+"39","MG","Outras doenças","HOSPITAL","<= 39","F",5
+"40","MG","Outras doenças","HOSPITAL","<= 39","M",9
+"41","MG","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","F",1
+"42","MG","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","M",1
+"43","MG","Outras doenças respiratórias","DOMICILIO","<= 39","F",1
+"44","MG","Outras doenças respiratórias","DOMICILIO","<= 39","M",3
+"45","MG","Outras doenças respiratórias","HOSPITAL","<= 39","F",61
+"47","MG","Outras doenças respiratórias","HOSPITAL","<= 39","M",89
+"48","MG","Outras doenças respiratórias","IGNORADO","<= 39","M",1
+"49","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","F",2
+"50","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","M",1
+"51","MG","Outras doenças respiratórias","VIA_PUBLICA","<= 39","F",2
+"52","MG","Outras doenças respiratórias","VIA_PUBLICA","<= 39","M",1
+"53","MG","Outras doenças respiratórias","DOMICILIO","<= 39","M",1
+"54","MG","Outras doenças respiratórias","HOSPITAL","<= 39","F",18
+"55","MG","Outras doenças respiratórias","HOSPITAL","<= 39","M",36
+"56","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","M",1
+"57","MG","Outras doenças respiratórias","HOSPITAL","<= 39","F",173
+"58","MG","Outras doenças respiratórias","HOSPITAL","<= 39","M",185
+"59","MG","Outras doenças respiratórias","IGNORADO","<= 39","F",3
+"60","MG","Outras doenças respiratórias","IGNORADO","<= 39","M",2
+"61","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","F",2
+"62","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","M",1
+"63","MG","Outras doenças respiratórias","VIA_PUBLICA","<= 39","F",1
+"64","MG","Outras doenças respiratórias","HOSPITAL","<= 39","F",6
+"65","MG","Outras doenças respiratórias","HOSPITAL","<= 39","M",9
+"66","MG","Outras doenças respiratórias","IGNORADO","<= 39","M",1
+"67","MS","Outras doenças","DOMICILIO","<= 39","F",9
+"68","MS","Outras doenças","DOMICILIO","<= 39","M",11
+"69","MS","Outras doenças","HOSPITAL","<= 39","F",120
+"70","MS","Outras doenças","HOSPITAL","<= 39","M",148
+"71","MS","Outras doenças","OUTRO","<= 39","M",2
+"72","MS","Outras doenças","VIA_PUBLICA","<= 39","F",2
+"73","MS","Outras doenças","VIA_PUBLICA","<= 39","M",3
+"74","MS","Outras doenças","DOMICILIO","<= 39","M",1
+"75","MS","Outras doenças","HOSPITAL","<= 39","F",1
+"76","MS","Outras doenças","POSTO_SAUDE","<= 39","F",1
+"77","MS","Outras doenças respiratórias","DOMICILIO","<= 39","F",1
+"78","MS","Outras doenças respiratórias","DOMICILIO","<= 39","M",4
+"79","MS","Outras doenças respiratórias","HOSPITAL","<= 39","F",11
+"80","MS","Outras doenças respiratórias","HOSPITAL","<= 39","M",21
+"81","MS","Outras doenças respiratórias","HOSPITAL","<= 39","F",16
+"82","MS","Outras doenças respiratórias","HOSPITAL","<= 39","M",15
+"83","MS","Outras doenças respiratórias","VIA_PUBLICA","<= 39","M",1
+"84","MS","Outras doenças respiratórias","HOSPITAL","<= 39","F",34
+"85","MS","Outras doenças respiratórias","HOSPITAL","<= 39","M",37
+"86","MS","Outras doenças respiratórias","HOSPITAL","<= 39","M",1
+"87","RJ","Outras doenças","DOMICILIO","<= 39","F",22
+"88","RJ","Outras doenças","DOMICILIO","<= 39","M",18
+"90","RJ","Outras doenças","HOSPITAL","<= 39","F",574
+"92","RJ","Outras doenças","HOSPITAL","<= 39","M",643
+"93","RJ","Outras doenças","IGNORADO","<= 39","M",1
+"94","RJ","Outras doenças","OUTRO","<= 39","F",5
+"95","RJ","Outras doenças","OUTRO","<= 39","M",2
+"96","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","F",20
+"97","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","M",22
+"98","RJ","Outras doenças","VIA_PUBLICA","<= 39","F",3
+"99","RJ","Outras doenças","VIA_PUBLICA","<= 39","M",6
+"100","RJ","COVID-19","HOSPITAL","<= 39","F",21
+"101","RJ","COVID-19","HOSPITAL","<= 39","M",18
+"102","RJ","Outras doenças","DOMICILIO","<= 39","M",3
+"103","RJ","Outras doenças","HOSPITAL","<= 39","F",2
+"104","RJ","Outras doenças","HOSPITAL","<= 39","M",1
+"105","RJ","Outras doenças","OUTRO","<= 39","M",1
+"106","RJ","Outras doenças respiratórias","DOMICILIO","<= 39","M",5
+"107","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","F",36
+"109","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","M",52
+"110","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","F",2
+"111","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","M",5
+"112","RJ","Outras doenças respiratórias","DOMICILIO","<= 39","M",1
+"113","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","F",47
+"114","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","M",55
+"115","RJ","Outras doenças respiratórias","OUTRO","<= 39","F",1
+"116","RJ","Outras doenças respiratórias","OUTRO","<= 39","M",1
+"117","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","F",3
+"118","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","M",8
+"119","RJ","Outras doenças respiratórias","VIA_PUBLICA","<= 39","F",1
+"120","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","F",240
+"122","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","M",269
+"123","RJ","Outras doenças respiratórias","IGNORADO","<= 39","F",1
+"124","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","F",2
+"125","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","M",2
+"126","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","F",6
+"127","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","M",3
+"128","DF","Outras doenças","DOMICILIO","<= 39","F",1
+"129","DF","Outras doenças","DOMICILIO","<= 39","M",4
+"130","DF","Outras doenças","HOSPITAL","<= 39","F",7
+"131","DF","Outras doenças","HOSPITAL","<= 39","M",30
+"132","DF","Outras doenças","OUTRO","<= 39","F",2
+"133","DF","Outras doenças","OUTRO","<= 39","M",1
+"134","DF","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","F",1
+"135","DF","Outras doenças","VIA_PUBLICA","<= 39","F",1
+"136","DF","Outras doenças","VIA_PUBLICA","<= 39","M",4
+"137","DF","COVID-19","OUTROS_SERVICOS_SAUDE","<= 39","F",1
+"138","DF","COVID-19","OUTROS_SERVICOS_SAUDE","<= 39","M",1
+"139","DF","Outras doenças","HOSPITAL","<= 39","M",1
+"140","DF","Outras doenças respiratórias","HOSPITAL","<= 39","M",1
+"141","DF","Outras doenças respiratórias","OUTRO","<= 39","F",1
+"142","DF","Outras doenças respiratórias","HOSPITAL","<= 39","F",5
+"143","DF","Outras doenças respiratórias","HOSPITAL","<= 39","M",3
+"144","DF","Outras doenças respiratórias","HOSPITAL","<= 39","F",1
+"145","DF","Outras doenças respiratórias","HOSPITAL","<= 39","M",4
+"146","MG","Outras doenças","DOMICILIO","<= 39","F",9
+"147","MG","Outras doenças","DOMICILIO","<= 39","M",18
+"148","MG","Outras doenças","HOSPITAL","<= 39","F",39
+"149","MG","Outras doenças","HOSPITAL","<= 39","M",77
+"150","MG","Outras doenças","IGNORADO","<= 39","M",6
+"151","MG","Outras doenças","OUTRO","<= 39","F",1
+"152","MG","Outras doenças","OUTRO","<= 39","M",15
+"153","MG","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","F",5
+"154","MG","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","M",10
+"155","MG","Outras doenças","VIA_PUBLICA","<= 39","F",3
+"156","MG","Outras doenças","VIA_PUBLICA","<= 39","M",16
+"157","MG","COVID-19","HOSPITAL","<= 39","M",3
+"158","MG","COVID-19","OUTRO","<= 39","M",1
+"159","MG","Outras doenças","DOMICILIO","<= 39","F",2
+"160","MG","Outras doenças","DOMICILIO","<= 39","M",1
+"161","MG","Outras doenças","OUTRO","<= 39","M",3
+"162","MG","Outras doenças respiratórias","DOMICILIO","<= 39","F",1
+"163","MG","Outras doenças respiratórias","HOSPITAL","<= 39","F",10
+"164","MG","Outras doenças respiratórias","HOSPITAL","<= 39","M",8
+"165","MG","Outras doenças respiratórias","IGNORADO","<= 39","F",2
+"166","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","F",1
+"167","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","M",2
+"168","MG","Outras doenças respiratórias","DOMICILIO","<= 39","F",2
+"169","MG","Outras doenças respiratórias","DOMICILIO","<= 39","M",2
+"170","MG","Outras doenças respiratórias","HOSPITAL","<= 39","F",12
+"171","MG","Outras doenças respiratórias","HOSPITAL","<= 39","M",17
+"172","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","F",1
+"173","MG","Outras doenças respiratórias","DOMICILIO","<= 39","M",2
+"174","MG","Outras doenças respiratórias","HOSPITAL","<= 39","F",15
+"175","MG","Outras doenças respiratórias","HOSPITAL","<= 39","M",28
+"176","MG","Outras doenças respiratórias","IGNORADO","<= 39","F",1
+"177","MG","Outras doenças respiratórias","IGNORADO","<= 39","M",1
+"178","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","M",1
+"179","MG","Outras doenças respiratórias","HOSPITAL","<= 39","M",2
+"180","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","F",1
+"181","MS","Outras doenças","DOMICILIO","<= 39","F",7
+"182","MS","Outras doenças","DOMICILIO","<= 39","M",10
+"183","MS","Outras doenças","HOSPITAL","<= 39","F",6
+"184","MS","Outras doenças","HOSPITAL","<= 39","M",11
+"185","MS","Outras doenças","OUTRO","<= 39","M",1
+"186","MS","Outras doenças","VIA_PUBLICA","<= 39","F",1
+"187","MS","Outras doenças","VIA_PUBLICA","<= 39","M",5
+"188","MS","COVID-19","HOSPITAL","<= 39","F",1
+"189","MS","Outras doenças","POSTO_SAUDE","<= 39","F",1
+"190","MS","Outras doenças respiratórias","DOMICILIO","<= 39","F",1
+"191","MS","Outras doenças respiratórias","HOSPITAL","<= 39","F",1
+"192","MS","Outras doenças respiratórias","VIA_PUBLICA","<= 39","M",1
+"193","MS","Outras doenças respiratórias","HOSPITAL","<= 39","F",5
+"194","MS","Outras doenças respiratórias","HOSPITAL","<= 39","M",5
+"195","MS","Outras doenças respiratórias","HOSPITAL","<= 39","F",7
+"196","MS","Outras doenças respiratórias","HOSPITAL","<= 39","M",1
+"197","MS","Outras doenças respiratórias","HOSPITAL","<= 39","M",1
+"198","RJ","Outras doenças","DOMICILIO","<= 39","F",4
+"199","RJ","Outras doenças","DOMICILIO","<= 39","M",17
+"200","RJ","Outras doenças","HOSPITAL","<= 39","F",64
+"201","RJ","Outras doenças","HOSPITAL","<= 39","M",134
+"202","RJ","Outras doenças","OUTRO","<= 39","F",5
+"203","RJ","Outras doenças","OUTRO","<= 39","M",14
+"204","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","F",16
+"205","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","M",35
+"206","RJ","Outras doenças","VIA_PUBLICA","<= 39","F",2
+"207","RJ","Outras doenças","VIA_PUBLICA","<= 39","M",24
+"208","RJ","COVID-19","DOMICILIO","<= 39","F",1
+"209","RJ","COVID-19","HOSPITAL","<= 39","F",5
+"210","RJ","COVID-19","HOSPITAL","<= 39","M",9
+"211","RJ","COVID-19","OUTROS_SERVICOS_SAUDE","<= 39","F",1
+"212","RJ","COVID-19","OUTROS_SERVICOS_SAUDE","<= 39","M",1
+"213","RJ","Outras doenças","DOMICILIO","<= 39","M",1
+"214","RJ","Outras doenças","HOSPITAL","<= 39","F",1
+"215","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","M",1
+"216","RJ","Outras doenças","VIA_PUBLICA","<= 39","M",1
+"217","RJ","Outras doenças respiratórias","DOMICILIO","<= 39","M",1
+"218","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","F",8
+"219","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","M",11
+"220","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","F",2
+"221","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","M",3
+"222","RJ","Outras doenças respiratórias","DOMICILIO","<= 39","M",1
+"223","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","F",17
+"224","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","M",28
+"225","RJ","Outras doenças respiratórias","OUTRO","<= 39","F",1
+"226","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","F",4
+"227","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","M",4
+"228","RJ","Outras doenças respiratórias","DOMICILIO","<= 39","F",1
+"229","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","F",30
+"230","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","M",20
+"231","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","M",4
+"232","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","F",1
+"233","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","M",2
+"234","DF","Outras doenças","DOMICILIO","<= 39","F",4
+"235","DF","Outras doenças","DOMICILIO","<= 39","M",11
+"236","DF","Outras doenças","HOSPITAL","<= 39","F",28
+"237","DF","Outras doenças","HOSPITAL","<= 39","M",83
+"238","DF","Outras doenças","IGNORADO","<= 39","M",1
+"239","DF","Outras doenças","OUTRO","<= 39","F",1
+"240","DF","Outras doenças","OUTRO","<= 39","M",7
+"241","DF","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","F",2
+"242","DF","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","M",1
+"243","DF","Outras doenças","VIA_PUBLICA","<= 39","F",1
+"244","DF","Outras doenças","VIA_PUBLICA","<= 39","M",19
+"245","DF","COVID-19","HOSPITAL","<= 39","F",6
+"246","DF","COVID-19","HOSPITAL","<= 39","M",7
+"247","DF","Outras doenças","HOSPITAL","<= 39","F",1
+"248","DF","Outras doenças","HOSPITAL","<= 39","M",4
+"249","DF","Outras doenças respiratórias","HOSPITAL","<= 39","F",3
+"250","DF","Outras doenças respiratórias","HOSPITAL","<= 39","M",5
+"251","DF","Outras doenças respiratórias","DOMICILIO","<= 39","M",1
+"252","DF","Outras doenças respiratórias","HOSPITAL","<= 39","F",6
+"253","DF","Outras doenças respiratórias","HOSPITAL","<= 39","M",12
+"254","DF","Outras doenças respiratórias","DOMICILIO","<= 39","M",1
+"255","DF","Outras doenças respiratórias","HOSPITAL","<= 39","F",8
+"256","DF","Outras doenças respiratórias","HOSPITAL","<= 39","M",9
+"257","DF","Outras doenças respiratórias","OUTRO","<= 39","M",1
+"258","MG","Outras doenças","DOMICILIO","<= 39","F",28
+"259","MG","Outras doenças","DOMICILIO","<= 39","M",73
+"260","MG","Outras doenças","HOSPITAL","<= 39","F",82
+"261","MG","Outras doenças","HOSPITAL","<= 39","M",167
+"262","MG","Outras doenças","IGNORADO","<= 39","F",3
+"263","MG","Outras doenças","IGNORADO","<= 39","M",7
+"264","MG","Outras doenças","OUTRO","<= 39","F",15
+"265","MG","Outras doenças","OUTRO","<= 39","M",42
+"266","MG","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","F",12
+"267","MG","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","M",23
+"268","MG","Outras doenças","VIA_PUBLICA","<= 39","F",10
+"269","MG","Outras doenças","VIA_PUBLICA","<= 39","M",80
+"270","MG","COVID-19","DOMICILIO","<= 39","M",1
+"271","MG","COVID-19","HOSPITAL","<= 39","F",5
+"272","MG","COVID-19","HOSPITAL","<= 39","M",13
+"273","MG","COVID-19","OUTROS_SERVICOS_SAUDE","<= 39","F",1
+"274","MG","COVID-19","OUTROS_SERVICOS_SAUDE","<= 39","M",1
+"275","MG","Outras doenças","DOMICILIO","<= 39","F",1
+"276","MG","Outras doenças","DOMICILIO","<= 39","M",6
+"277","MG","Outras doenças","HOSPITAL","<= 39","F",2
+"278","MG","Outras doenças","HOSPITAL","<= 39","M",5
+"279","MG","Outras doenças","OUTRO","<= 39","F",2
+"280","MG","Outras doenças","OUTRO","<= 39","M",2
+"281","MG","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","F",1
+"282","MG","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","M",1
+"283","MG","Outras doenças","VIA_PUBLICA","<= 39","M",1
+"284","MG","Outras doenças respiratórias","DOMICILIO","<= 39","F",1
+"285","MG","Outras doenças respiratórias","HOSPITAL","<= 39","F",13
+"286","MG","Outras doenças respiratórias","HOSPITAL","<= 39","M",22
+"287","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","F",1
+"288","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","M",1
+"289","MG","Outras doenças respiratórias","DOMICILIO","<= 39","F",1
+"290","MG","Outras doenças respiratórias","DOMICILIO","<= 39","M",1
+"291","MG","Outras doenças respiratórias","HOSPITAL","<= 39","F",22
+"292","MG","Outras doenças respiratórias","HOSPITAL","<= 39","M",46
+"293","MG","Outras doenças respiratórias","IGNORADO","<= 39","M",3
+"294","MG","Outras doenças respiratórias","OUTRO","<= 39","M",2
+"295","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","F",1
+"296","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","M",3
+"297","MG","Outras doenças respiratórias","DOMICILIO","<= 39","M",1
+"298","MG","Outras doenças respiratórias","HOSPITAL","<= 39","F",39
+"299","MG","Outras doenças respiratórias","HOSPITAL","<= 39","M",44
+"300","MG","Outras doenças respiratórias","IGNORADO","<= 39","F",1
+"301","MG","Outras doenças respiratórias","IGNORADO","<= 39","M",1
+"302","MG","Outras doenças respiratórias","OUTRO","<= 39","F",1
+"303","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","F",1
+"304","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","M",2
+"305","MG","Outras doenças respiratórias","HOSPITAL","<= 39","F",3
+"306","MG","Outras doenças respiratórias","HOSPITAL","<= 39","M",3
+"307","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","F",1
+"308","MS","Outras doenças","DOMICILIO","<= 39","F",10
+"309","MS","Outras doenças","DOMICILIO","<= 39","M",10
+"310","MS","Outras doenças","HOSPITAL","<= 39","F",11
+"311","MS","Outras doenças","HOSPITAL","<= 39","M",27
+"312","MS","Outras doenças","IGNORADO","<= 39","M",1
+"313","MS","Outras doenças","OUTRO","<= 39","M",8
+"314","MS","Outras doenças","VIA_PUBLICA","<= 39","F",2
+"315","MS","Outras doenças","VIA_PUBLICA","<= 39","M",16
+"316","MS","COVID-19","HOSPITAL","<= 39","F",1
+"317","MS","COVID-19","HOSPITAL","<= 39","M",1
+"318","MS","Outras doenças","HOSPITAL","<= 39","M",1
+"319","MS","Outras doenças","POSTO_SAUDE","<= 39","M",1
+"320","MS","Outras doenças respiratórias","HOSPITAL","<= 39","F",3
+"321","MS","Outras doenças respiratórias","HOSPITAL","<= 39","M",2
+"322","MS","Outras doenças respiratórias","POSTO_SAUDE","<= 39","M",1
+"323","MS","Outras doenças respiratórias","DOMICILIO","<= 39","M",1
+"324","MS","Outras doenças respiratórias","HOSPITAL","<= 39","F",6
+"325","MS","Outras doenças respiratórias","HOSPITAL","<= 39","M",11
+"326","MS","Outras doenças respiratórias","DOMICILIO","<= 39","M",1
+"327","MS","Outras doenças respiratórias","HOSPITAL","<= 39","F",9
+"328","MS","Outras doenças respiratórias","HOSPITAL","<= 39","M",11
+"329","MS","Outras doenças respiratórias","HOSPITAL","<= 39","M",2
+"330","RJ","Outras doenças","DOMICILIO","<= 39","F",31
+"331","RJ","Outras doenças","DOMICILIO","<= 39","M",64
+"332","RJ","Outras doenças","HOSPITAL","<= 39","F",145
+"333","RJ","Outras doenças","HOSPITAL","<= 39","M",408
+"334","RJ","Outras doenças","IGNORADO","<= 39","F",2
+"335","RJ","Outras doenças","IGNORADO","<= 39","M",2
+"336","RJ","Outras doenças","OUTRO","<= 39","F",11
+"337","RJ","Outras doenças","OUTRO","<= 39","M",71
+"338","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","F",48
+"339","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","M",105
+"340","RJ","Outras doenças","VIA_PUBLICA","<= 39","F",8
+"341","RJ","Outras doenças","VIA_PUBLICA","<= 39","M",93
+"342","RJ","COVID-19","HOSPITAL","<= 39","F",51
+"343","RJ","COVID-19","HOSPITAL","<= 39","M",51
+"344","RJ","COVID-19","IGNORADO","<= 39","M",1
+"345","RJ","COVID-19","OUTROS_SERVICOS_SAUDE","<= 39","F",7
+"346","RJ","COVID-19","OUTROS_SERVICOS_SAUDE","<= 39","M",12
+"347","RJ","Outras doenças","DOMICILIO","<= 39","F",1
+"348","RJ","Outras doenças","DOMICILIO","<= 39","M",1
+"349","RJ","Outras doenças","HOSPITAL","<= 39","M",3
+"350","RJ","Outras doenças","OUTRO","<= 39","M",3
+"351","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","F",2
+"352","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","M",4
+"353","RJ","Outras doenças","VIA_PUBLICA","<= 39","M",1
+"354","RJ","Outras doenças respiratórias","DOMICILIO","<= 39","F",1
+"355","RJ","Outras doenças respiratórias","DOMICILIO","<= 39","M",6
+"356","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","F",23
+"357","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","M",27
+"358","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","F",6
+"359","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","M",10
+"360","RJ","Outras doenças respiratórias","DOMICILIO","<= 39","M",1
+"361","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","F",51
+"362","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","M",78
+"363","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","F",11
+"364","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","M",10
+"365","RJ","Outras doenças respiratórias","VIA_PUBLICA","<= 39","M",2
+"366","RJ","Outras doenças respiratórias","DOMICILIO","<= 39","M",1
+"367","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","F",60
+"368","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","M",62
+"369","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","F",3
+"370","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","M",9
+"371","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","F",7
+"372","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","M",5
+"373","DF","Outras doenças","DOMICILIO","<= 39","F",5
+"374","DF","Outras doenças","DOMICILIO","<= 39","M",25
+"375","DF","Outras doenças","HOSPITAL","<= 39","F",58
+"376","DF","Outras doenças","HOSPITAL","<= 39","M",108
+"377","DF","Outras doenças","OUTRO","<= 39","F",2
+"378","DF","Outras doenças","OUTRO","<= 39","M",12
+"379","DF","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","M",3
+"380","DF","Outras doenças","VIA_PUBLICA","<= 39","F",2
+"381","DF","Outras doenças","VIA_PUBLICA","<= 39","M",19
+"382","DF","COVID-19","DOMICILIO","<= 39","M",2
+"383","DF","COVID-19","HOSPITAL","<= 39","F",10
+"384","DF","COVID-19","HOSPITAL","<= 39","M",19
+"385","DF","COVID-19","OUTROS_SERVICOS_SAUDE","<= 39","M",1
+"386","DF","Outras doenças","DOMICILIO","<= 39","M",1
+"387","DF","Outras doenças","HOSPITAL","<= 39","F",2
+"388","DF","Outras doenças","HOSPITAL","<= 39","M",5
+"389","DF","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","F",1
+"390","DF","Outras doenças respiratórias","DOMICILIO","<= 39","M",3
+"391","DF","Outras doenças respiratórias","HOSPITAL","<= 39","F",9
+"392","DF","Outras doenças respiratórias","HOSPITAL","<= 39","M",7
+"393","DF","Outras doenças respiratórias","OUTRO","<= 39","M",1
+"394","DF","Outras doenças respiratórias","DOMICILIO","<= 39","F",1
+"395","DF","Outras doenças respiratórias","HOSPITAL","<= 39","F",14
+"396","DF","Outras doenças respiratórias","HOSPITAL","<= 39","M",19
+"397","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","F",1
+"398","DF","Outras doenças respiratórias","HOSPITAL","<= 39","F",14
+"399","DF","Outras doenças respiratórias","HOSPITAL","<= 39","M",14
+"400","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","F",1
+"401","DF","Outras doenças respiratórias","HOSPITAL","<= 39","F",1
+"402","MG","Outras doenças","DOMICILIO","<= 39","F",83
+"403","MG","Outras doenças","DOMICILIO","<= 39","M",173
+"404","MG","Outras doenças","HOSPITAL","<= 39","F",250
+"405","MG","Outras doenças","HOSPITAL","<= 39","M",334
+"406","MG","Outras doenças","IGNORADO","<= 39","F",12
+"407","MG","Outras doenças","IGNORADO","<= 39","M",21
+"408","MG","Outras doenças","OUTRO","<= 39","F",14
+"409","MG","Outras doenças","OUTRO","<= 39","M",54
+"410","MG","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","F",24
+"411","MG","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","M",58
+"412","MG","Outras doenças","VIA_PUBLICA","<= 39","F",13
+"413","MG","Outras doenças","VIA_PUBLICA","<= 39","M",69
+"414","MG","COVID-19","DOMICILIO","<= 39","F",1
+"415","MG","COVID-19","DOMICILIO","<= 39","M",1
+"416","MG","COVID-19","HOSPITAL","<= 39","F",11
+"417","MG","COVID-19","HOSPITAL","<= 39","M",32
+"418","MG","COVID-19","IGNORADO","<= 39","M",1
+"419","MG","COVID-19","OUTROS_SERVICOS_SAUDE","<= 39","F",3
+"420","MG","COVID-19","OUTROS_SERVICOS_SAUDE","<= 39","M",3
+"421","MG","Outras doenças","DOMICILIO","<= 39","F",2
+"422","MG","Outras doenças","DOMICILIO","<= 39","M",12
+"423","MG","Outras doenças","HOSPITAL","<= 39","F",7
+"424","MG","Outras doenças","HOSPITAL","<= 39","M",4
+"425","MG","Outras doenças","IGNORADO","<= 39","F",2
+"426","MG","Outras doenças","IGNORADO","<= 39","M",1
+"427","MG","Outras doenças","OUTRO","<= 39","M",9
+"428","MG","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","F",2
+"429","MG","Outras doenças","VIA_PUBLICA","<= 39","M",4
+"430","MG","Outras doenças respiratórias","DOMICILIO","<= 39","F",3
+"431","MG","Outras doenças respiratórias","DOMICILIO","<= 39","M",3
+"432","MG","Outras doenças respiratórias","HOSPITAL","<= 39","F",48
+"433","MG","Outras doenças respiratórias","HOSPITAL","<= 39","M",36
+"434","MG","Outras doenças respiratórias","IGNORADO","<= 39","F",2
+"435","MG","Outras doenças respiratórias","IGNORADO","<= 39","M",1
+"436","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","F",7
+"437","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","M",5
+"438","MG","Outras doenças respiratórias","DOMICILIO","<= 39","F",2
+"439","MG","Outras doenças respiratórias","DOMICILIO","<= 39","M",6
+"440","MG","Outras doenças respiratórias","HOSPITAL","<= 39","F",49
+"441","MG","Outras doenças respiratórias","HOSPITAL","<= 39","M",74
+"442","MG","Outras doenças respiratórias","IGNORADO","<= 39","F",3
+"443","MG","Outras doenças respiratórias","IGNORADO","<= 39","M",2
+"444","MG","Outras doenças respiratórias","OUTRO","<= 39","M",1
+"445","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","F",2
+"446","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","M",6
+"447","MG","Outras doenças respiratórias","DOMICILIO","<= 39","M",2
+"448","MG","Outras doenças respiratórias","HOSPITAL","<= 39","F",95
+"449","MG","Outras doenças respiratórias","HOSPITAL","<= 39","M",96
+"450","MG","Outras doenças respiratórias","IGNORADO","<= 39","F",3
+"451","MG","Outras doenças respiratórias","OUTRO","<= 39","M",1
+"452","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","F",2
+"453","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","M",5
+"454","MG","Outras doenças respiratórias","HOSPITAL","<= 39","F",2
+"455","MG","Outras doenças respiratórias","HOSPITAL","<= 39","M",2
+"456","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","M",3
+"457","MS","Outras doenças","DOMICILIO","<= 39","F",10
+"458","MS","Outras doenças","DOMICILIO","<= 39","M",24
+"459","MS","Outras doenças","HOSPITAL","<= 39","F",30
+"460","MS","Outras doenças","HOSPITAL","<= 39","M",59
+"461","MS","Outras doenças","OUTRO","<= 39","M",10
+"462","MS","Outras doenças","POSTO_SAUDE","<= 39","M",2
+"463","MS","Outras doenças","VIA_PUBLICA","<= 39","F",2
+"464","MS","Outras doenças","VIA_PUBLICA","<= 39","M",17
+"465","MS","COVID-19","HOSPITAL","<= 39","F",5
+"466","MS","COVID-19","HOSPITAL","<= 39","M",3
+"467","MS","Outras doenças","DOMICILIO","<= 39","F",1
+"468","MS","Outras doenças","DOMICILIO","<= 39","M",1
+"469","MS","Outras doenças respiratórias","DOMICILIO","<= 39","M",2
+"470","MS","Outras doenças respiratórias","HOSPITAL","<= 39","F",5
+"471","MS","Outras doenças respiratórias","HOSPITAL","<= 39","M",11
+"472","MS","Outras doenças respiratórias","OUTRO","<= 39","M",1
+"473","MS","Outras doenças respiratórias","POSTO_SAUDE","<= 39","F",2
+"474","MS","Outras doenças respiratórias","POSTO_SAUDE","<= 39","M",1
+"475","MS","Outras doenças respiratórias","DOMICILIO","<= 39","M",2
+"476","MS","Outras doenças respiratórias","HOSPITAL","<= 39","F",11
+"477","MS","Outras doenças respiratórias","HOSPITAL","<= 39","M",16
+"478","MS","Outras doenças respiratórias","DOMICILIO","<= 39","M",1
+"479","MS","Outras doenças respiratórias","HOSPITAL","<= 39","F",14
+"480","MS","Outras doenças respiratórias","HOSPITAL","<= 39","M",15
+"481","RJ","Outras doenças","DOMICILIO","<= 39","F",64
+"482","RJ","Outras doenças","DOMICILIO","<= 39","M",146
+"483","RJ","Outras doenças","HOSPITAL","<= 39","F",315
+"484","RJ","Outras doenças","HOSPITAL","<= 39","M",392
+"485","RJ","Outras doenças","IGNORADO","<= 39","F",1
+"486","RJ","Outras doenças","IGNORADO","<= 39","M",1
+"487","RJ","Outras doenças","OUTRO","<= 39","F",16
+"488","RJ","Outras doenças","OUTRO","<= 39","M",67
+"489","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","F",55
+"490","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","M",120
+"491","RJ","Outras doenças","VIA_PUBLICA","<= 39","F",7
+"492","RJ","Outras doenças","VIA_PUBLICA","<= 39","M",61
+"493","RJ","COVID-19","DOMICILIO","<= 39","F",2
+"494","RJ","COVID-19","DOMICILIO","<= 39","M",5
+"495","RJ","COVID-19","HOSPITAL","<= 39","F",147
+"496","RJ","COVID-19","HOSPITAL","<= 39","M",194
+"497","RJ","COVID-19","OUTROS_SERVICOS_SAUDE","<= 39","F",26
+"498","RJ","COVID-19","OUTROS_SERVICOS_SAUDE","<= 39","M",25
+"499","RJ","COVID-19","VIA_PUBLICA","<= 39","M",1
+"500","RJ","Outras doenças","DOMICILIO","<= 39","M",4
+"501","RJ","Outras doenças","HOSPITAL","<= 39","F",4
+"502","RJ","Outras doenças","HOSPITAL","<= 39","M",6
+"503","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","F",7
+"504","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE","<= 39","M",4
+"505","RJ","Outras doenças","VIA_PUBLICA","<= 39","M",1
+"506","RJ","Outras doenças respiratórias","DOMICILIO","<= 39","M",1
+"507","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","F",44
+"508","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","M",45
+"509","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","F",16
+"510","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","M",13
+"511","RJ","Outras doenças respiratórias","DOMICILIO","<= 39","F",4
+"512","RJ","Outras doenças respiratórias","DOMICILIO","<= 39","M",9
+"513","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","F",90
+"514","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","M",131
+"515","RJ","Outras doenças respiratórias","OUTRO","<= 39","F",1
+"516","RJ","Outras doenças respiratórias","OUTRO","<= 39","M",1
+"517","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","F",11
+"518","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","M",27
+"519","RJ","Outras doenças respiratórias","VIA_PUBLICA","<= 39","M",1
+"520","RJ","Outras doenças respiratórias","DOMICILIO","<= 39","M",2
+"521","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","F",121
+"522","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","M",119
+"523","RJ","Outras doenças respiratórias","IGNORADO","<= 39","F",1
+"524","RJ","Outras doenças respiratórias","OUTRO","<= 39","M",1
+"525","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","F",9
+"526","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","M",10
+"527","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","F",9
+"528","RJ","Outras doenças respiratórias","HOSPITAL","<= 39","M",18
+"529","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","<= 39","M",2
+"530","DF","Outras doenças","DOMICILIO","40 - 79","F",12
+"531","DF","Outras doenças","DOMICILIO","40 - 79","M",46
+"532","DF","Outras doenças","HOSPITAL","40 - 79","F",101
+"533","DF","Outras doenças","HOSPITAL","40 - 79","M",126
+"534","DF","Outras doenças","OUTRO","40 - 79","F",3
+"535","DF","Outras doenças","OUTRO","40 - 79","M",14
+"536","DF","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","F",2
+"537","DF","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","M",3
+"538","DF","Outras doenças","VIA_PUBLICA","40 - 79","F",2
+"539","DF","Outras doenças","VIA_PUBLICA","40 - 79","M",14
+"540","DF","COVID-19","DOMICILIO","40 - 79","M",1
+"541","DF","COVID-19","HOSPITAL","40 - 79","F",28
+"542","DF","COVID-19","HOSPITAL","40 - 79","M",54
+"543","DF","COVID-19","OUTROS_SERVICOS_SAUDE","40 - 79","F",1
+"544","DF","COVID-19","OUTROS_SERVICOS_SAUDE","40 - 79","M",3
+"545","DF","COVID-19","VIA_PUBLICA","40 - 79","M",1
+"546","DF","Outras doenças","HOSPITAL","40 - 79","F",4
+"547","DF","Outras doenças","HOSPITAL","40 - 79","M",4
+"548","DF","Outras doenças","VIA_PUBLICA","40 - 79","M",1
+"549","DF","Outras doenças respiratórias","DOMICILIO","40 - 79","F",1
+"550","DF","Outras doenças respiratórias","DOMICILIO","40 - 79","M",2
+"551","DF","Outras doenças respiratórias","HOSPITAL","40 - 79","F",15
+"552","DF","Outras doenças respiratórias","HOSPITAL","40 - 79","M",13
+"553","DF","Outras doenças respiratórias","OUTRO","40 - 79","M",2
+"554","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",1
+"555","DF","Outras doenças respiratórias","HOSPITAL","40 - 79","F",23
+"556","DF","Outras doenças respiratórias","HOSPITAL","40 - 79","M",42
+"557","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",1
+"558","DF","Outras doenças respiratórias","DOMICILIO","40 - 79","M",2
+"559","DF","Outras doenças respiratórias","HOSPITAL","40 - 79","F",36
+"560","DF","Outras doenças respiratórias","HOSPITAL","40 - 79","M",33
+"561","DF","Outras doenças respiratórias","OUTRO","40 - 79","F",1
+"562","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",3
+"563","MG","Outras doenças","DOMICILIO","40 - 79","F",179
+"564","MG","Outras doenças","DOMICILIO","40 - 79","M",385
+"565","MG","Outras doenças","HOSPITAL","40 - 79","F",511
+"566","MG","Outras doenças","HOSPITAL","40 - 79","M",610
+"567","MG","Outras doenças","IGNORADO","40 - 79","F",13
+"568","MG","Outras doenças","IGNORADO","40 - 79","M",37
+"569","MG","Outras doenças","OUTRO","40 - 79","F",22
+"570","MG","Outras doenças","OUTRO","40 - 79","M",74
+"571","MG","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","F",70
+"572","MG","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","M",107
+"573","MG","Outras doenças","VIA_PUBLICA","40 - 79","F",18
+"574","MG","Outras doenças","VIA_PUBLICA","40 - 79","M",80
+"575","MG","COVID-19","DOMICILIO","40 - 79","M",4
+"576","MG","COVID-19","HOSPITAL","40 - 79","F",34
+"577","MG","COVID-19","HOSPITAL","40 - 79","M",55
+"578","MG","COVID-19","IGNORADO","40 - 79","M",1
+"579","MG","COVID-19","OUTRO","40 - 79","M",4
+"580","MG","COVID-19","OUTROS_SERVICOS_SAUDE","40 - 79","F",3
+"581","MG","COVID-19","OUTROS_SERVICOS_SAUDE","40 - 79","M",9
+"582","MG","Outras doenças","DOMICILIO","40 - 79","F",10
+"583","MG","Outras doenças","DOMICILIO","40 - 79","M",30
+"584","MG","Outras doenças","HOSPITAL","40 - 79","F",2
+"585","MG","Outras doenças","HOSPITAL","40 - 79","M",11
+"586","MG","Outras doenças","IGNORADO","40 - 79","F",2
+"587","MG","Outras doenças","IGNORADO","40 - 79","M",4
+"588","MG","Outras doenças","OUTRO","40 - 79","F",2
+"589","MG","Outras doenças","OUTRO","40 - 79","M",7
+"590","MG","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","F",3
+"591","MG","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","M",3
+"592","MG","Outras doenças","VIA_PUBLICA","40 - 79","M",3
+"593","MG","Outras doenças respiratórias","DOMICILIO","40 - 79","F",15
+"594","MG","Outras doenças respiratórias","DOMICILIO","40 - 79","M",15
+"595","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","F",83
+"596","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","M",126
+"597","MG","Outras doenças respiratórias","IGNORADO","40 - 79","F",2
+"598","MG","Outras doenças respiratórias","IGNORADO","40 - 79","M",4
+"599","MG","Outras doenças respiratórias","OUTRO","40 - 79","F",1
+"600","MG","Outras doenças respiratórias","OUTRO","40 - 79","M",4
+"601","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",11
+"602","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",9
+"603","MG","Outras doenças respiratórias","VIA_PUBLICA","40 - 79","M",2
+"604","MG","Outras doenças respiratórias","DOMICILIO","40 - 79","F",3
+"605","MG","Outras doenças respiratórias","DOMICILIO","40 - 79","M",2
+"606","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","F",92
+"607","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","M",179
+"608","MG","Outras doenças respiratórias","IGNORADO","40 - 79","F",2
+"609","MG","Outras doenças respiratórias","IGNORADO","40 - 79","M",5
+"610","MG","Outras doenças respiratórias","OUTRO","40 - 79","M",1
+"611","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",4
+"612","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",7
+"613","MG","Outras doenças respiratórias","DOMICILIO","40 - 79","F",1
+"614","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","F",193
+"615","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","M",220
+"616","MG","Outras doenças respiratórias","IGNORADO","40 - 79","F",6
+"617","MG","Outras doenças respiratórias","IGNORADO","40 - 79","M",6
+"618","MG","Outras doenças respiratórias","OUTRO","40 - 79","F",3
+"619","MG","Outras doenças respiratórias","OUTRO","40 - 79","M",1
+"620","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",12
+"621","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",10
+"622","MG","Outras doenças respiratórias","DOMICILIO","40 - 79","F",1
+"623","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","F",8
+"624","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","M",6
+"625","MG","Outras doenças respiratórias","OUTRO","40 - 79","M",1
+"626","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",2
+"627","MG","Outras doenças respiratórias","VIA_PUBLICA","40 - 79","M",1
+"628","MS","Outras doenças","DOMICILIO","40 - 79","F",22
+"629","MS","Outras doenças","DOMICILIO","40 - 79","M",51
+"630","MS","Outras doenças","HOSPITAL","40 - 79","F",77
+"631","MS","Outras doenças","HOSPITAL","40 - 79","M",96
+"632","MS","Outras doenças","IGNORADO","40 - 79","M",1
+"633","MS","Outras doenças","OUTRO","40 - 79","F",1
+"634","MS","Outras doenças","OUTRO","40 - 79","M",9
+"635","MS","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","M",1
+"636","MS","Outras doenças","VIA_PUBLICA","40 - 79","F",3
+"637","MS","Outras doenças","VIA_PUBLICA","40 - 79","M",17
+"638","MS","COVID-19","HOSPITAL","40 - 79","F",6
+"639","MS","COVID-19","HOSPITAL","40 - 79","M",2
+"640","MS","COVID-19","OUTRO","40 - 79","M",1
+"641","MS","Outras doenças","HOSPITAL","40 - 79","M",1
+"642","MS","Outras doenças","OUTRO","40 - 79","M",1
+"643","MS","Outras doenças","VIA_PUBLICA","40 - 79","M",1
+"644","MS","Outras doenças respiratórias","DOMICILIO","40 - 79","F",6
+"645","MS","Outras doenças respiratórias","DOMICILIO","40 - 79","M",2
+"646","MS","Outras doenças respiratórias","HOSPITAL","40 - 79","F",16
+"647","MS","Outras doenças respiratórias","HOSPITAL","40 - 79","M",21
+"648","MS","Outras doenças respiratórias","OUTRO","40 - 79","F",1
+"649","MS","Outras doenças respiratórias","HOSPITAL","40 - 79","F",33
+"650","MS","Outras doenças respiratórias","HOSPITAL","40 - 79","M",53
+"651","MS","Outras doenças respiratórias","POSTO_SAUDE","40 - 79","F",1
+"652","MS","Outras doenças respiratórias","VIA_PUBLICA","40 - 79","M",1
+"653","MS","Outras doenças respiratórias","HOSPITAL","40 - 79","F",33
+"654","MS","Outras doenças respiratórias","HOSPITAL","40 - 79","M",41
+"655","MS","Outras doenças respiratórias","OUTRO","40 - 79","M",1
+"656","MS","Outras doenças respiratórias","POSTO_SAUDE","40 - 79","F",1
+"657","RJ","Outras doenças","DOMICILIO","40 - 79","F",176
+"658","RJ","Outras doenças","DOMICILIO","40 - 79","M",315
+"659","RJ","Outras doenças","HOSPITAL","40 - 79","F",679
+"660","RJ","Outras doenças","HOSPITAL","40 - 79","M",781
+"661","RJ","Outras doenças","IGNORADO","40 - 79","F",2
+"662","RJ","Outras doenças","IGNORADO","40 - 79","M",2
+"663","RJ","Outras doenças","OUTRO","40 - 79","F",24
+"664","RJ","Outras doenças","OUTRO","40 - 79","M",83
+"665","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","F",179
+"666","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","M",202
+"667","RJ","Outras doenças","VIA_PUBLICA","40 - 79","F",5
+"668","RJ","Outras doenças","VIA_PUBLICA","40 - 79","M",55
+"669","RJ","COVID-19","DOMICILIO","40 - 79","F",7
+"670","RJ","COVID-19","DOMICILIO","40 - 79","M",13
+"671","RJ","COVID-19","HOSPITAL","40 - 79","F",271
+"672","RJ","COVID-19","HOSPITAL","40 - 79","M",486
+"673","RJ","COVID-19","OUTRO","40 - 79","F",2
+"674","RJ","COVID-19","OUTRO","40 - 79","M",3
+"675","RJ","COVID-19","OUTROS_SERVICOS_SAUDE","40 - 79","F",59
+"676","RJ","COVID-19","OUTROS_SERVICOS_SAUDE","40 - 79","M",72
+"677","RJ","Outras doenças","DOMICILIO","40 - 79","F",7
+"678","RJ","Outras doenças","DOMICILIO","40 - 79","M",16
+"679","RJ","Outras doenças","HOSPITAL","40 - 79","F",13
+"680","RJ","Outras doenças","HOSPITAL","40 - 79","M",13
+"681","RJ","Outras doenças","IGNORADO","40 - 79","M",1
+"682","RJ","Outras doenças","OUTRO","40 - 79","M",3
+"683","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","F",8
+"684","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","M",9
+"685","RJ","Outras doenças","VIA_PUBLICA","40 - 79","F",1
+"686","RJ","Outras doenças","VIA_PUBLICA","40 - 79","M",2
+"687","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","F",9
+"688","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","M",7
+"689","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","F",130
+"690","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","M",108
+"691","RJ","Outras doenças respiratórias","OUTRO","40 - 79","M",2
+"692","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",28
+"693","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",35
+"694","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","F",10
+"695","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","M",8
+"696","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","F",158
+"697","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","M",211
+"698","RJ","Outras doenças respiratórias","IGNORADO","40 - 79","M",1
+"699","RJ","Outras doenças respiratórias","OUTRO","40 - 79","F",1
+"700","RJ","Outras doenças respiratórias","OUTRO","40 - 79","M",1
+"701","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",26
+"702","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",51
+"703","RJ","Outras doenças respiratórias","VIA_PUBLICA","40 - 79","M",3
+"704","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","F",2
+"705","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","M",3
+"706","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","F",228
+"707","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","M",213
+"708","RJ","Outras doenças respiratórias","IGNORADO","40 - 79","F",1
+"709","RJ","Outras doenças respiratórias","OUTRO","40 - 79","F",1
+"710","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",29
+"711","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",31
+"712","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","F",1
+"713","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","M",1
+"714","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","F",23
+"715","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","M",51
+"716","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",7
+"717","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",20
+"718","DF","Outras doenças","DOMICILIO","40 - 79","F",24
+"719","DF","Outras doenças","DOMICILIO","40 - 79","M",65
+"720","DF","Outras doenças","HOSPITAL","40 - 79","F",142
+"721","DF","Outras doenças","HOSPITAL","40 - 79","M",217
+"722","DF","Outras doenças","OUTRO","40 - 79","F",7
+"723","DF","Outras doenças","OUTRO","40 - 79","M",17
+"724","DF","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","F",6
+"725","DF","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","M",7
+"726","DF","Outras doenças","VIA_PUBLICA","40 - 79","F",3
+"727","DF","Outras doenças","VIA_PUBLICA","40 - 79","M",6
+"728","DF","COVID-19","DOMICILIO","40 - 79","M",2
+"729","DF","COVID-19","HOSPITAL","40 - 79","F",38
+"730","DF","COVID-19","HOSPITAL","40 - 79","M",80
+"731","DF","COVID-19","OUTRO","40 - 79","F",2
+"732","DF","COVID-19","OUTRO","40 - 79","M",1
+"733","DF","COVID-19","OUTROS_SERVICOS_SAUDE","40 - 79","F",1
+"734","DF","COVID-19","OUTROS_SERVICOS_SAUDE","40 - 79","M",4
+"735","DF","Outras doenças","HOSPITAL","40 - 79","F",2
+"736","DF","Outras doenças","HOSPITAL","40 - 79","M",4
+"737","DF","Outras doenças","OUTRO","40 - 79","F",1
+"738","DF","Outras doenças","VIA_PUBLICA","40 - 79","M",1
+"739","DF","Outras doenças respiratórias","DOMICILIO","40 - 79","F",3
+"740","DF","Outras doenças respiratórias","DOMICILIO","40 - 79","M",11
+"741","DF","Outras doenças respiratórias","HOSPITAL","40 - 79","F",17
+"742","DF","Outras doenças respiratórias","HOSPITAL","40 - 79","M",40
+"743","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",2
+"744","DF","Outras doenças respiratórias","VIA_PUBLICA","40 - 79","M",1
+"745","DF","Outras doenças respiratórias","DOMICILIO","40 - 79","F",1
+"746","DF","Outras doenças respiratórias","DOMICILIO","40 - 79","M",5
+"747","DF","Outras doenças respiratórias","HOSPITAL","40 - 79","F",43
+"748","DF","Outras doenças respiratórias","HOSPITAL","40 - 79","M",77
+"749","DF","Outras doenças respiratórias","OUTRO","40 - 79","F",1
+"750","DF","Outras doenças respiratórias","OUTRO","40 - 79","M",1
+"751","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",2
+"752","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",2
+"753","DF","Outras doenças respiratórias","DOMICILIO","40 - 79","M",2
+"754","DF","Outras doenças respiratórias","HOSPITAL","40 - 79","F",49
+"755","DF","Outras doenças respiratórias","HOSPITAL","40 - 79","M",53
+"756","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",1
+"757","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",1
+"758","DF","Outras doenças respiratórias","HOSPITAL","40 - 79","F",4
+"759","DF","Outras doenças respiratórias","HOSPITAL","40 - 79","M",1
+"760","MG","Outras doenças","DOMICILIO","40 - 79","F",375
+"761","MG","Outras doenças","DOMICILIO","40 - 79","M",801
+"762","MG","Outras doenças","HOSPITAL","40 - 79","F",934
+"764","MG","Outras doenças","HOSPITAL","40 - 79","M",1302
+"765","MG","Outras doenças","IGNORADO","40 - 79","F",18
+"766","MG","Outras doenças","IGNORADO","40 - 79","M",47
+"767","MG","Outras doenças","OUTRO","40 - 79","F",31
+"768","MG","Outras doenças","OUTRO","40 - 79","M",105
+"769","MG","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","F",111
+"770","MG","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","M",193
+"771","MG","Outras doenças","VIA_PUBLICA","40 - 79","F",18
+"772","MG","Outras doenças","VIA_PUBLICA","40 - 79","M",75
+"773","MG","COVID-19","DOMICILIO","40 - 79","F",2
+"774","MG","COVID-19","DOMICILIO","40 - 79","M",2
+"775","MG","COVID-19","HOSPITAL","40 - 79","F",49
+"776","MG","COVID-19","HOSPITAL","40 - 79","M",111
+"777","MG","COVID-19","IGNORADO","40 - 79","F",1
+"778","MG","COVID-19","IGNORADO","40 - 79","M",1
+"779","MG","COVID-19","OUTRO","40 - 79","F",2
+"780","MG","COVID-19","OUTROS_SERVICOS_SAUDE","40 - 79","F",2
+"781","MG","COVID-19","OUTROS_SERVICOS_SAUDE","40 - 79","M",15
+"782","MG","Outras doenças","DOMICILIO","40 - 79","F",19
+"783","MG","Outras doenças","DOMICILIO","40 - 79","M",48
+"784","MG","Outras doenças","HOSPITAL","40 - 79","F",10
+"785","MG","Outras doenças","HOSPITAL","40 - 79","M",13
+"786","MG","Outras doenças","IGNORADO","40 - 79","F",1
+"787","MG","Outras doenças","IGNORADO","40 - 79","M",7
+"788","MG","Outras doenças","OUTRO","40 - 79","F",1
+"789","MG","Outras doenças","OUTRO","40 - 79","M",9
+"790","MG","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","F",1
+"791","MG","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","M",3
+"792","MG","Outras doenças","VIA_PUBLICA","40 - 79","M",2
+"793","MG","Outras doenças respiratórias","DOMICILIO","40 - 79","F",33
+"794","MG","Outras doenças respiratórias","DOMICILIO","40 - 79","M",35
+"795","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","F",178
+"796","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","M",203
+"797","MG","Outras doenças respiratórias","IGNORADO","40 - 79","F",3
+"798","MG","Outras doenças respiratórias","IGNORADO","40 - 79","M",8
+"799","MG","Outras doenças respiratórias","OUTRO","40 - 79","F",1
+"800","MG","Outras doenças respiratórias","OUTRO","40 - 79","M",3
+"801","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",14
+"802","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",27
+"803","MG","Outras doenças respiratórias","VIA_PUBLICA","40 - 79","F",1
+"804","MG","Outras doenças respiratórias","VIA_PUBLICA","40 - 79","M",6
+"805","MG","Outras doenças respiratórias","DOMICILIO","40 - 79","F",7
+"806","MG","Outras doenças respiratórias","DOMICILIO","40 - 79","M",10
+"807","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","F",223
+"808","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","M",349
+"809","MG","Outras doenças respiratórias","IGNORADO","40 - 79","F",1
+"810","MG","Outras doenças respiratórias","IGNORADO","40 - 79","M",19
+"811","MG","Outras doenças respiratórias","OUTRO","40 - 79","F",1
+"812","MG","Outras doenças respiratórias","OUTRO","40 - 79","M",3
+"813","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",8
+"814","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",26
+"815","MG","Outras doenças respiratórias","DOMICILIO","40 - 79","F",2
+"816","MG","Outras doenças respiratórias","DOMICILIO","40 - 79","M",3
+"817","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","F",350
+"818","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","M",461
+"819","MG","Outras doenças respiratórias","IGNORADO","40 - 79","F",13
+"820","MG","Outras doenças respiratórias","IGNORADO","40 - 79","M",13
+"821","MG","Outras doenças respiratórias","OUTRO","40 - 79","M",1
+"822","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",12
+"823","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",23
+"824","MG","Outras doenças respiratórias","DOMICILIO","40 - 79","F",1
+"825","MG","Outras doenças respiratórias","DOMICILIO","40 - 79","M",4
+"826","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","F",15
+"827","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","M",13
+"828","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",3
+"829","MS","Outras doenças","DOMICILIO","40 - 79","F",36
+"830","MS","Outras doenças","DOMICILIO","40 - 79","M",119
+"831","MS","Outras doenças","HOSPITAL","40 - 79","F",132
+"832","MS","Outras doenças","HOSPITAL","40 - 79","M",197
+"833","MS","Outras doenças","OUTRO","40 - 79","F",6
+"834","MS","Outras doenças","OUTRO","40 - 79","M",18
+"835","MS","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","F",1
+"836","MS","Outras doenças","POSTO_SAUDE","40 - 79","F",5
+"837","MS","Outras doenças","POSTO_SAUDE","40 - 79","M",6
+"838","MS","Outras doenças","VIA_PUBLICA","40 - 79","F",6
+"839","MS","Outras doenças","VIA_PUBLICA","40 - 79","M",11
+"840","MS","COVID-19","HOSPITAL","40 - 79","F",7
+"841","MS","COVID-19","HOSPITAL","40 - 79","M",8
+"842","MS","COVID-19","POSTO_SAUDE","40 - 79","F",1
+"843","MS","COVID-19","VIA_PUBLICA","40 - 79","M",1
+"844","MS","Outras doenças","DOMICILIO","40 - 79","F",1
+"845","MS","Outras doenças","DOMICILIO","40 - 79","M",2
+"846","MS","Outras doenças respiratórias","DOMICILIO","40 - 79","F",4
+"847","MS","Outras doenças respiratórias","DOMICILIO","40 - 79","M",10
+"848","MS","Outras doenças respiratórias","HOSPITAL","40 - 79","F",30
+"849","MS","Outras doenças respiratórias","HOSPITAL","40 - 79","M",33
+"850","MS","Outras doenças respiratórias","OUTRO","40 - 79","M",1
+"851","MS","Outras doenças respiratórias","VIA_PUBLICA","40 - 79","M",1
+"852","MS","Outras doenças respiratórias","DOMICILIO","40 - 79","F",1
+"853","MS","Outras doenças respiratórias","DOMICILIO","40 - 79","M",2
+"854","MS","Outras doenças respiratórias","HOSPITAL","40 - 79","F",40
+"855","MS","Outras doenças respiratórias","HOSPITAL","40 - 79","M",78
+"856","MS","Outras doenças respiratórias","OUTRO","40 - 79","M",1
+"857","MS","Outras doenças respiratórias","POSTO_SAUDE","40 - 79","M",1
+"858","MS","Outras doenças respiratórias","DOMICILIO","40 - 79","M",1
+"859","MS","Outras doenças respiratórias","HOSPITAL","40 - 79","F",37
+"860","MS","Outras doenças respiratórias","HOSPITAL","40 - 79","M",53
+"861","MS","Outras doenças respiratórias","OUTRO","40 - 79","M",1
+"862","MS","Outras doenças respiratórias","HOSPITAL","40 - 79","F",2
+"863","MS","Outras doenças respiratórias","HOSPITAL","40 - 79","M",3
+"864","RJ","Outras doenças","DOMICILIO","40 - 79","F",350
+"866","RJ","Outras doenças","DOMICILIO","40 - 79","M",740
+"867","RJ","Outras doenças","HOSPITAL","40 - 79","F",1301
+"868","RJ","Outras doenças","HOSPITAL","40 - 79","M",1612
+"869","RJ","Outras doenças","IGNORADO","40 - 79","F",4
+"870","RJ","Outras doenças","IGNORADO","40 - 79","M",6
+"871","RJ","Outras doenças","OUTRO","40 - 79","F",18
+"873","RJ","Outras doenças","OUTRO","40 - 79","M",84
+"874","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","F",329
+"875","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","M",474
+"876","RJ","Outras doenças","VIA_PUBLICA","40 - 79","F",9
+"877","RJ","Outras doenças","VIA_PUBLICA","40 - 79","M",53
+"878","RJ","COVID-19","DOMICILIO","40 - 79","F",7
+"879","RJ","COVID-19","DOMICILIO","40 - 79","M",19
+"880","RJ","COVID-19","HOSPITAL","40 - 79","F",551
+"881","RJ","COVID-19","HOSPITAL","40 - 79","M",932
+"882","RJ","COVID-19","IGNORADO","40 - 79","M",1
+"883","RJ","COVID-19","OUTRO","40 - 79","F",1
+"884","RJ","COVID-19","OUTRO","40 - 79","M",3
+"885","RJ","COVID-19","OUTROS_SERVICOS_SAUDE","40 - 79","F",97
+"886","RJ","COVID-19","OUTROS_SERVICOS_SAUDE","40 - 79","M",137
+"887","RJ","COVID-19","VIA_PUBLICA","40 - 79","M",1
+"888","RJ","Outras doenças","DOMICILIO","40 - 79","F",11
+"889","RJ","Outras doenças","DOMICILIO","40 - 79","M",26
+"890","RJ","Outras doenças","HOSPITAL","40 - 79","F",15
+"891","RJ","Outras doenças","HOSPITAL","40 - 79","M",28
+"892","RJ","Outras doenças","OUTRO","40 - 79","F",2
+"893","RJ","Outras doenças","OUTRO","40 - 79","M",3
+"894","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","F",14
+"895","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","M",13
+"896","RJ","Outras doenças","VIA_PUBLICA","40 - 79","M",5
+"897","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","F",28
+"898","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","M",31
+"899","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","F",256
+"900","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","M",287
+"901","RJ","Outras doenças respiratórias","IGNORADO","40 - 79","M",1
+"902","RJ","Outras doenças respiratórias","OUTRO","40 - 79","F",1
+"903","RJ","Outras doenças respiratórias","OUTRO","40 - 79","M",2
+"904","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",44
+"905","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",79
+"906","RJ","Outras doenças respiratórias","VIA_PUBLICA","40 - 79","M",3
+"907","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","F",9
+"908","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","M",14
+"909","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","F",354
+"910","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","M",514
+"911","RJ","Outras doenças respiratórias","IGNORADO","40 - 79","F",1
+"912","RJ","Outras doenças respiratórias","OUTRO","40 - 79","F",2
+"913","RJ","Outras doenças respiratórias","OUTRO","40 - 79","M",1
+"914","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",65
+"915","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",95
+"916","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","F",6
+"917","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","M",8
+"918","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","F",397
+"919","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","M",480
+"920","RJ","Outras doenças respiratórias","IGNORADO","40 - 79","F",2
+"921","RJ","Outras doenças respiratórias","IGNORADO","40 - 79","M",1
+"922","RJ","Outras doenças respiratórias","OUTRO","40 - 79","M",1
+"923","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",41
+"924","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",53
+"925","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","F",2
+"926","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","M",3
+"927","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","F",37
+"928","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","M",73
+"929","RJ","Outras doenças respiratórias","OUTRO","40 - 79","M",1
+"930","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",11
+"931","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",18
+"932","DF","Outras doenças","DOMICILIO","40 - 79","F",51
+"933","DF","Outras doenças","DOMICILIO","40 - 79","M",75
+"934","DF","Outras doenças","HOSPITAL","40 - 79","F",188
+"935","DF","Outras doenças","HOSPITAL","40 - 79","M",266
+"936","DF","Outras doenças","OUTRO","40 - 79","F",6
+"937","DF","Outras doenças","OUTRO","40 - 79","M",18
+"938","DF","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","F",4
+"939","DF","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","M",11
+"940","DF","Outras doenças","VIA_PUBLICA","40 - 79","M",11
+"941","DF","COVID-19","DOMICILIO","40 - 79","F",3
+"942","DF","COVID-19","HOSPITAL","40 - 79","F",75
+"943","DF","COVID-19","HOSPITAL","40 - 79","M",108
+"944","DF","COVID-19","OUTRO","40 - 79","F",1
+"945","DF","COVID-19","OUTRO","40 - 79","M",2
+"946","DF","COVID-19","OUTROS_SERVICOS_SAUDE","40 - 79","M",3
+"947","DF","Outras doenças","DOMICILIO","40 - 79","M",1
+"948","DF","Outras doenças","HOSPITAL","40 - 79","F",1
+"949","DF","Outras doenças","HOSPITAL","40 - 79","M",3
+"950","DF","Outras doenças respiratórias","DOMICILIO","40 - 79","F",5
+"951","DF","Outras doenças respiratórias","DOMICILIO","40 - 79","M",12
+"952","DF","Outras doenças respiratórias","HOSPITAL","40 - 79","F",28
+"953","DF","Outras doenças respiratórias","HOSPITAL","40 - 79","M",45
+"954","DF","Outras doenças respiratórias","OUTRO","40 - 79","F",3
+"955","DF","Outras doenças respiratórias","OUTRO","40 - 79","M",2
+"956","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",2
+"957","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",7
+"958","DF","Outras doenças respiratórias","DOMICILIO","40 - 79","F",4
+"959","DF","Outras doenças respiratórias","DOMICILIO","40 - 79","M",4
+"960","DF","Outras doenças respiratórias","HOSPITAL","40 - 79","F",83
+"961","DF","Outras doenças respiratórias","HOSPITAL","40 - 79","M",111
+"962","DF","Outras doenças respiratórias","OUTRO","40 - 79","M",5
+"963","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",6
+"964","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",4
+"965","DF","Outras doenças respiratórias","DOMICILIO","40 - 79","F",4
+"966","DF","Outras doenças respiratórias","DOMICILIO","40 - 79","M",5
+"967","DF","Outras doenças respiratórias","HOSPITAL","40 - 79","F",83
+"968","DF","Outras doenças respiratórias","HOSPITAL","40 - 79","M",105
+"969","DF","Outras doenças respiratórias","OUTRO","40 - 79","F",1
+"970","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",1
+"971","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",3
+"972","DF","Outras doenças respiratórias","HOSPITAL","40 - 79","F",4
+"973","DF","Outras doenças respiratórias","HOSPITAL","40 - 79","M",2
+"974","MG","Outras doenças","DOMICILIO","40 - 79","F",663
+"976","MG","Outras doenças","DOMICILIO","40 - 79","M",1147
+"977","MG","Outras doenças","HOSPITAL","40 - 79","F",1415
+"978","MG","Outras doenças","HOSPITAL","40 - 79","M",2035
+"979","MG","Outras doenças","IGNORADO","40 - 79","F",53
+"980","MG","Outras doenças","IGNORADO","40 - 79","M",80
+"981","MG","Outras doenças","OUTRO","40 - 79","F",30
+"982","MG","Outras doenças","OUTRO","40 - 79","M",108
+"983","MG","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","F",152
+"984","MG","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","M",281
+"985","MG","Outras doenças","POSTO_SAUDE","40 - 79","M",1
+"986","MG","Outras doenças","VIA_PUBLICA","40 - 79","F",28
+"987","MG","Outras doenças","VIA_PUBLICA","40 - 79","M",87
+"988","MG","COVID-19","DOMICILIO","40 - 79","F",3
+"989","MG","COVID-19","DOMICILIO","40 - 79","M",5
+"990","MG","COVID-19","HOSPITAL","40 - 79","F",87
+"991","MG","COVID-19","HOSPITAL","40 - 79","M",160
+"992","MG","COVID-19","IGNORADO","40 - 79","F",2
+"993","MG","COVID-19","IGNORADO","40 - 79","M",1
+"994","MG","COVID-19","OUTRO","40 - 79","F",1
+"995","MG","COVID-19","OUTRO","40 - 79","M",2
+"996","MG","COVID-19","OUTROS_SERVICOS_SAUDE","40 - 79","F",4
+"997","MG","COVID-19","OUTROS_SERVICOS_SAUDE","40 - 79","M",19
+"998","MG","Outras doenças","DOMICILIO","40 - 79","F",18
+"999","MG","Outras doenças","DOMICILIO","40 - 79","M",55
+"1000","MG","Outras doenças","HOSPITAL","40 - 79","F",7
+"1001","MG","Outras doenças","HOSPITAL","40 - 79","M",17
+"1002","MG","Outras doenças","IGNORADO","40 - 79","F",2
+"1003","MG","Outras doenças","IGNORADO","40 - 79","M",1
+"1004","MG","Outras doenças","OUTRO","40 - 79","F",2
+"1005","MG","Outras doenças","OUTRO","40 - 79","M",7
+"1006","MG","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","F",3
+"1007","MG","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","M",8
+"1008","MG","Outras doenças","VIA_PUBLICA","40 - 79","F",1
+"1009","MG","Outras doenças","VIA_PUBLICA","40 - 79","M",9
+"1010","MG","Outras doenças respiratórias","DOMICILIO","40 - 79","F",49
+"1011","MG","Outras doenças respiratórias","DOMICILIO","40 - 79","M",60
+"1012","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","F",265
+"1013","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","M",376
+"1014","MG","Outras doenças respiratórias","IGNORADO","40 - 79","F",6
+"1015","MG","Outras doenças respiratórias","IGNORADO","40 - 79","M",12
+"1016","MG","Outras doenças respiratórias","OUTRO","40 - 79","F",4
+"1017","MG","Outras doenças respiratórias","OUTRO","40 - 79","M",2
+"1018","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",27
+"1019","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",41
+"1020","MG","Outras doenças respiratórias","VIA_PUBLICA","40 - 79","M",1
+"1021","MG","Outras doenças respiratórias","DOMICILIO","40 - 79","F",17
+"1022","MG","Outras doenças respiratórias","DOMICILIO","40 - 79","M",27
+"1023","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","F",424
+"1024","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","M",674
+"1025","MG","Outras doenças respiratórias","IGNORADO","40 - 79","F",11
+"1027","MG","Outras doenças respiratórias","IGNORADO","40 - 79","M",16
+"1028","MG","Outras doenças respiratórias","OUTRO","40 - 79","F",3
+"1029","MG","Outras doenças respiratórias","OUTRO","40 - 79","M",4
+"1030","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",22
+"1031","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",37
+"1032","MG","Outras doenças respiratórias","VIA_PUBLICA","40 - 79","M",1
+"1033","MG","Outras doenças respiratórias","DOMICILIO","40 - 79","F",7
+"1034","MG","Outras doenças respiratórias","DOMICILIO","40 - 79","M",12
+"1035","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","F",685
+"1036","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","M",726
+"1037","MG","Outras doenças respiratórias","IGNORADO","40 - 79","F",13
+"1038","MG","Outras doenças respiratórias","IGNORADO","40 - 79","M",17
+"1039","MG","Outras doenças respiratórias","OUTRO","40 - 79","F",1
+"1040","MG","Outras doenças respiratórias","OUTRO","40 - 79","M",3
+"1041","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",36
+"1042","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",39
+"1043","MG","Outras doenças respiratórias","VIA_PUBLICA","40 - 79","M",1
+"1044","MG","Outras doenças respiratórias","DOMICILIO","40 - 79","F",4
+"1045","MG","Outras doenças respiratórias","DOMICILIO","40 - 79","M",7
+"1046","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","F",11
+"1047","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","M",23
+"1048","MG","Outras doenças respiratórias","IGNORADO","40 - 79","F",3
+"1049","MG","Outras doenças respiratórias","OUTRO","40 - 79","M",1
+"1050","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",2
+"1051","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",5
+"1052","MS","Outras doenças","DOMICILIO","40 - 79","F",68
+"1053","MS","Outras doenças","DOMICILIO","40 - 79","M",137
+"1054","MS","Outras doenças","HOSPITAL","40 - 79","F",180
+"1055","MS","Outras doenças","HOSPITAL","40 - 79","M",310
+"1056","MS","Outras doenças","OUTRO","40 - 79","F",2
+"1057","MS","Outras doenças","OUTRO","40 - 79","M",15
+"1058","MS","Outras doenças","POSTO_SAUDE","40 - 79","F",4
+"1059","MS","Outras doenças","POSTO_SAUDE","40 - 79","M",3
+"1060","MS","Outras doenças","VIA_PUBLICA","40 - 79","F",2
+"1061","MS","Outras doenças","VIA_PUBLICA","40 - 79","M",16
+"1062","MS","COVID-19","DOMICILIO","40 - 79","M",2
+"1063","MS","COVID-19","HOSPITAL","40 - 79","F",13
+"1064","MS","COVID-19","HOSPITAL","40 - 79","M",17
+"1065","MS","Outras doenças","DOMICILIO","40 - 79","F",3
+"1066","MS","Outras doenças","VIA_PUBLICA","40 - 79","M",1
+"1067","MS","Outras doenças respiratórias","DOMICILIO","40 - 79","F",5
+"1068","MS","Outras doenças respiratórias","DOMICILIO","40 - 79","M",11
+"1069","MS","Outras doenças respiratórias","HOSPITAL","40 - 79","F",45
+"1070","MS","Outras doenças respiratórias","HOSPITAL","40 - 79","M",75
+"1071","MS","Outras doenças respiratórias","OUTRO","40 - 79","M",3
+"1072","MS","Outras doenças respiratórias","POSTO_SAUDE","40 - 79","F",1
+"1073","MS","Outras doenças respiratórias","VIA_PUBLICA","40 - 79","F",1
+"1074","MS","Outras doenças respiratórias","DOMICILIO","40 - 79","F",5
+"1075","MS","Outras doenças respiratórias","DOMICILIO","40 - 79","M",1
+"1076","MS","Outras doenças respiratórias","HOSPITAL","40 - 79","F",80
+"1077","MS","Outras doenças respiratórias","HOSPITAL","40 - 79","M",147
+"1078","MS","Outras doenças respiratórias","POSTO_SAUDE","40 - 79","F",1
+"1079","MS","Outras doenças respiratórias","POSTO_SAUDE","40 - 79","M",1
+"1080","MS","Outras doenças respiratórias","HOSPITAL","40 - 79","F",65
+"1081","MS","Outras doenças respiratórias","HOSPITAL","40 - 79","M",102
+"1082","MS","Outras doenças respiratórias","OUTRO","40 - 79","M",1
+"1083","MS","Outras doenças respiratórias","POSTO_SAUDE","40 - 79","F",1
+"1084","MS","Outras doenças respiratórias","HOSPITAL","40 - 79","F",1
+"1085","MS","Outras doenças respiratórias","HOSPITAL","40 - 79","M",7
+"1086","RJ","Outras doenças","DOMICILIO","40 - 79","F",697
+"1087","RJ","Outras doenças","DOMICILIO","40 - 79","M",1251
+"1088","RJ","Outras doenças","HOSPITAL","40 - 79","F",2118
+"1090","RJ","Outras doenças","HOSPITAL","40 - 79","M",2652
+"1091","RJ","Outras doenças","IGNORADO","40 - 79","F",4
+"1092","RJ","Outras doenças","IGNORADO","40 - 79","M",12
+"1093","RJ","Outras doenças","OUTRO","40 - 79","F",28
+"1094","RJ","Outras doenças","OUTRO","40 - 79","M",102
+"1095","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","F",555
+"1096","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","M",719
+"1097","RJ","Outras doenças","VIA_PUBLICA","40 - 79","F",12
+"1098","RJ","Outras doenças","VIA_PUBLICA","40 - 79","M",64
+"1099","RJ","COVID-19","DOMICILIO","40 - 79","F",14
+"1100","RJ","COVID-19","DOMICILIO","40 - 79","M",24
+"1101","RJ","COVID-19","HOSPITAL","40 - 79","F",1049
+"1102","RJ","COVID-19","HOSPITAL","40 - 79","M",1567
+"1103","RJ","COVID-19","IGNORADO","40 - 79","F",2
+"1104","RJ","COVID-19","IGNORADO","40 - 79","M",1
+"1105","RJ","COVID-19","OUTRO","40 - 79","F",2
+"1106","RJ","COVID-19","OUTRO","40 - 79","M",5
+"1107","RJ","COVID-19","OUTROS_SERVICOS_SAUDE","40 - 79","F",152
+"1108","RJ","COVID-19","OUTROS_SERVICOS_SAUDE","40 - 79","M",221
+"1109","RJ","COVID-19","VIA_PUBLICA","40 - 79","F",1
+"1110","RJ","Outras doenças","DOMICILIO","40 - 79","F",20
+"1111","RJ","Outras doenças","DOMICILIO","40 - 79","M",35
+"1112","RJ","Outras doenças","HOSPITAL","40 - 79","F",44
+"1113","RJ","Outras doenças","HOSPITAL","40 - 79","M",43
+"1114","RJ","Outras doenças","OUTRO","40 - 79","F",3
+"1115","RJ","Outras doenças","OUTRO","40 - 79","M",2
+"1116","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","F",24
+"1117","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","M",24
+"1118","RJ","Outras doenças","VIA_PUBLICA","40 - 79","M",1
+"1119","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","F",52
+"1120","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","M",62
+"1121","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","F",448
+"1122","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","M",472
+"1123","RJ","Outras doenças respiratórias","OUTRO","40 - 79","F",2
+"1124","RJ","Outras doenças respiratórias","OUTRO","40 - 79","M",3
+"1125","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",116
+"1126","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",134
+"1127","RJ","Outras doenças respiratórias","VIA_PUBLICA","40 - 79","F",1
+"1128","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","F",13
+"1129","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","M",42
+"1130","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","F",732
+"1131","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","M",998
+"1132","RJ","Outras doenças respiratórias","IGNORADO","40 - 79","M",2
+"1133","RJ","Outras doenças respiratórias","OUTRO","40 - 79","F",5
+"1134","RJ","Outras doenças respiratórias","OUTRO","40 - 79","M",5
+"1135","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",112
+"1136","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",183
+"1137","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","F",6
+"1138","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","M",15
+"1139","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","F",786
+"1140","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","M",970
+"1141","RJ","Outras doenças respiratórias","IGNORADO","40 - 79","F",1
+"1142","RJ","Outras doenças respiratórias","IGNORADO","40 - 79","M",1
+"1143","RJ","Outras doenças respiratórias","OUTRO","40 - 79","F",1
+"1144","RJ","Outras doenças respiratórias","OUTRO","40 - 79","M",4
+"1145","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",96
+"1147","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",119
+"1148","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","F",2
+"1149","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","M",3
+"1150","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","F",88
+"1151","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","M",121
+"1152","RJ","Outras doenças respiratórias","IGNORADO","40 - 79","F",2
+"1153","RJ","Outras doenças respiratórias","OUTRO","40 - 79","M",1
+"1154","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",13
+"1155","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",31
+"1156","DF","Outras doenças","DOMICILIO","40 - 79","F",77
+"1157","DF","Outras doenças","DOMICILIO","40 - 79","M",86
+"1158","DF","Outras doenças","HOSPITAL","40 - 79","F",236
+"1159","DF","Outras doenças","HOSPITAL","40 - 79","M",253
+"1160","DF","Outras doenças","OUTRO","40 - 79","F",15
+"1161","DF","Outras doenças","OUTRO","40 - 79","M",20
+"1162","DF","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","F",6
+"1163","DF","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","M",6
+"1164","DF","Outras doenças","VIA_PUBLICA","40 - 79","F",1
+"1165","DF","Outras doenças","VIA_PUBLICA","40 - 79","M",3
+"1166","DF","COVID-19","DOMICILIO","40 - 79","F",3
+"1167","DF","COVID-19","DOMICILIO","40 - 79","M",2
+"1168","DF","COVID-19","HOSPITAL","40 - 79","F",74
+"1169","DF","COVID-19","HOSPITAL","40 - 79","M",121
+"1170","DF","COVID-19","OUTRO","40 - 79","F",2
+"1171","DF","COVID-19","OUTRO","40 - 79","M",1
+"1172","DF","COVID-19","OUTROS_SERVICOS_SAUDE","40 - 79","M",3
+"1173","DF","Outras doenças","DOMICILIO","40 - 79","F",2
+"1174","DF","Outras doenças","DOMICILIO","40 - 79","M",2
+"1175","DF","Outras doenças","HOSPITAL","40 - 79","F",3
+"1176","DF","Outras doenças","HOSPITAL","40 - 79","M",3
+"1177","DF","Outras doenças respiratórias","DOMICILIO","40 - 79","F",9
+"1178","DF","Outras doenças respiratórias","DOMICILIO","40 - 79","M",9
+"1179","DF","Outras doenças respiratórias","HOSPITAL","40 - 79","F",38
+"1180","DF","Outras doenças respiratórias","HOSPITAL","40 - 79","M",31
+"1181","DF","Outras doenças respiratórias","OUTRO","40 - 79","M",1
+"1182","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",2
+"1183","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",2
+"1184","DF","Outras doenças respiratórias","DOMICILIO","40 - 79","F",3
+"1185","DF","Outras doenças respiratórias","DOMICILIO","40 - 79","M",6
+"1186","DF","Outras doenças respiratórias","HOSPITAL","40 - 79","F",158
+"1187","DF","Outras doenças respiratórias","HOSPITAL","40 - 79","M",147
+"1188","DF","Outras doenças respiratórias","OUTRO","40 - 79","F",1
+"1189","DF","Outras doenças respiratórias","OUTRO","40 - 79","M",4
+"1190","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",9
+"1191","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",6
+"1192","DF","Outras doenças respiratórias","DOMICILIO","40 - 79","F",2
+"1193","DF","Outras doenças respiratórias","DOMICILIO","40 - 79","M",9
+"1194","DF","Outras doenças respiratórias","HOSPITAL","40 - 79","F",108
+"1195","DF","Outras doenças respiratórias","HOSPITAL","40 - 79","M",107
+"1196","DF","Outras doenças respiratórias","OUTRO","40 - 79","F",6
+"1197","DF","Outras doenças respiratórias","OUTRO","40 - 79","M",2
+"1198","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",7
+"1199","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",4
+"1200","DF","Outras doenças respiratórias","HOSPITAL","40 - 79","F",4
+"1201","DF","Outras doenças respiratórias","HOSPITAL","40 - 79","M",2
+"1202","MG","Outras doenças","DOMICILIO","40 - 79","F",864
+"1203","MG","Outras doenças","DOMICILIO","40 - 79","M",1155
+"1204","MG","Outras doenças","HOSPITAL","40 - 79","F",1677
+"1205","MG","Outras doenças","HOSPITAL","40 - 79","M",1941
+"1206","MG","Outras doenças","IGNORADO","40 - 79","F",81
+"1207","MG","Outras doenças","IGNORADO","40 - 79","M",78
+"1208","MG","Outras doenças","OUTRO","40 - 79","F",51
+"1209","MG","Outras doenças","OUTRO","40 - 79","M",96
+"1210","MG","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","F",210
+"1211","MG","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","M",235
+"1212","MG","Outras doenças","VIA_PUBLICA","40 - 79","F",14
+"1213","MG","Outras doenças","VIA_PUBLICA","40 - 79","M",37
+"1214","MG","COVID-19","DOMICILIO","40 - 79","F",7
+"1215","MG","COVID-19","DOMICILIO","40 - 79","M",11
+"1216","MG","COVID-19","HOSPITAL","40 - 79","F",159
+"1217","MG","COVID-19","HOSPITAL","40 - 79","M",167
+"1218","MG","COVID-19","IGNORADO","40 - 79","F",2
+"1219","MG","COVID-19","IGNORADO","40 - 79","M",4
+"1220","MG","COVID-19","OUTRO","40 - 79","F",2
+"1221","MG","COVID-19","OUTRO","40 - 79","M",3
+"1222","MG","COVID-19","OUTROS_SERVICOS_SAUDE","40 - 79","F",14
+"1223","MG","COVID-19","OUTROS_SERVICOS_SAUDE","40 - 79","M",10
+"1224","MG","Outras doenças","DOMICILIO","40 - 79","F",32
+"1225","MG","Outras doenças","DOMICILIO","40 - 79","M",51
+"1226","MG","Outras doenças","HOSPITAL","40 - 79","F",20
+"1227","MG","Outras doenças","HOSPITAL","40 - 79","M",20
+"1228","MG","Outras doenças","IGNORADO","40 - 79","F",7
+"1229","MG","Outras doenças","IGNORADO","40 - 79","M",7
+"1230","MG","Outras doenças","OUTRO","40 - 79","F",2
+"1231","MG","Outras doenças","OUTRO","40 - 79","M",5
+"1232","MG","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","F",3
+"1233","MG","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","M",5
+"1234","MG","Outras doenças","VIA_PUBLICA","40 - 79","F",1
+"1235","MG","Outras doenças","VIA_PUBLICA","40 - 79","M",3
+"1236","MG","Outras doenças respiratórias","DOMICILIO","40 - 79","F",62
+"1237","MG","Outras doenças respiratórias","DOMICILIO","40 - 79","M",89
+"1238","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","F",345
+"1239","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","M",439
+"1240","MG","Outras doenças respiratórias","IGNORADO","40 - 79","F",9
+"1241","MG","Outras doenças respiratórias","IGNORADO","40 - 79","M",8
+"1242","MG","Outras doenças respiratórias","OUTRO","40 - 79","F",2
+"1243","MG","Outras doenças respiratórias","OUTRO","40 - 79","M",10
+"1244","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",34
+"1245","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",53
+"1246","MG","Outras doenças respiratórias","VIA_PUBLICA","40 - 79","F",1
+"1247","MG","Outras doenças respiratórias","VIA_PUBLICA","40 - 79","M",1
+"1248","MG","Outras doenças respiratórias","DOMICILIO","40 - 79","F",33
+"1249","MG","Outras doenças respiratórias","DOMICILIO","40 - 79","M",44
+"1250","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","F",740
+"1251","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","M",975
+"1252","MG","Outras doenças respiratórias","IGNORADO","40 - 79","F",19
+"1253","MG","Outras doenças respiratórias","IGNORADO","40 - 79","M",15
+"1254","MG","Outras doenças respiratórias","OUTRO","40 - 79","F",2
+"1255","MG","Outras doenças respiratórias","OUTRO","40 - 79","M",8
+"1256","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",47
+"1257","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",42
+"1258","MG","Outras doenças respiratórias","VIA_PUBLICA","40 - 79","F",2
+"1259","MG","Outras doenças respiratórias","DOMICILIO","40 - 79","F",19
+"1260","MG","Outras doenças respiratórias","DOMICILIO","40 - 79","M",18
+"1261","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","F",889
+"1262","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","M",857
+"1263","MG","Outras doenças respiratórias","IGNORADO","40 - 79","F",15
+"1264","MG","Outras doenças respiratórias","IGNORADO","40 - 79","M",14
+"1265","MG","Outras doenças respiratórias","OUTRO","40 - 79","F",4
+"1266","MG","Outras doenças respiratórias","OUTRO","40 - 79","M",4
+"1267","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",47
+"1268","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",60
+"1269","MG","Outras doenças respiratórias","VIA_PUBLICA","40 - 79","F",1
+"1270","MG","Outras doenças respiratórias","DOMICILIO","40 - 79","F",3
+"1271","MG","Outras doenças respiratórias","DOMICILIO","40 - 79","M",3
+"1272","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","F",29
+"1273","MG","Outras doenças respiratórias","HOSPITAL","40 - 79","M",27
+"1274","MG","Outras doenças respiratórias","IGNORADO","40 - 79","F",1
+"1275","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",1
+"1276","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",5
+"1277","MS","Outras doenças","DOMICILIO","40 - 79","F",99
+"1278","MS","Outras doenças","DOMICILIO","40 - 79","M",159
+"1279","MS","Outras doenças","HOSPITAL","40 - 79","F",238
+"1280","MS","Outras doenças","HOSPITAL","40 - 79","M",314
+"1281","MS","Outras doenças","OUTRO","40 - 79","F",4
+"1282","MS","Outras doenças","OUTRO","40 - 79","M",16
+"1283","MS","Outras doenças","POSTO_SAUDE","40 - 79","F",8
+"1284","MS","Outras doenças","POSTO_SAUDE","40 - 79","M",3
+"1285","MS","Outras doenças","VIA_PUBLICA","40 - 79","F",3
+"1286","MS","Outras doenças","VIA_PUBLICA","40 - 79","M",7
+"1287","MS","COVID-19","DOMICILIO","40 - 79","M",1
+"1288","MS","COVID-19","HOSPITAL","40 - 79","F",13
+"1289","MS","COVID-19","HOSPITAL","40 - 79","M",18
+"1290","MS","COVID-19","OUTRO","40 - 79","F",1
+"1291","MS","COVID-19","OUTRO","40 - 79","M",1
+"1292","MS","Outras doenças","DOMICILIO","40 - 79","F",1
+"1293","MS","Outras doenças","DOMICILIO","40 - 79","M",1
+"1294","MS","Outras doenças","HOSPITAL","40 - 79","F",1
+"1295","MS","Outras doenças respiratórias","DOMICILIO","40 - 79","F",12
+"1296","MS","Outras doenças respiratórias","DOMICILIO","40 - 79","M",12
+"1297","MS","Outras doenças respiratórias","HOSPITAL","40 - 79","F",56
+"1298","MS","Outras doenças respiratórias","HOSPITAL","40 - 79","M",52
+"1299","MS","Outras doenças respiratórias","DOMICILIO","40 - 79","F",11
+"1300","MS","Outras doenças respiratórias","DOMICILIO","40 - 79","M",10
+"1301","MS","Outras doenças respiratórias","HOSPITAL","40 - 79","F",135
+"1302","MS","Outras doenças respiratórias","HOSPITAL","40 - 79","M",194
+"1303","MS","Outras doenças respiratórias","OUTRO","40 - 79","F",1
+"1304","MS","Outras doenças respiratórias","DOMICILIO","40 - 79","F",2
+"1305","MS","Outras doenças respiratórias","DOMICILIO","40 - 79","M",4
+"1306","MS","Outras doenças respiratórias","HOSPITAL","40 - 79","F",101
+"1307","MS","Outras doenças respiratórias","HOSPITAL","40 - 79","M",95
+"1308","MS","Outras doenças respiratórias","OUTRO","40 - 79","M",1
+"1309","MS","Outras doenças respiratórias","POSTO_SAUDE","40 - 79","F",1
+"1310","MS","Outras doenças respiratórias","VIA_PUBLICA","40 - 79","F",1
+"1311","MS","Outras doenças respiratórias","HOSPITAL","40 - 79","F",1
+"1312","MS","Outras doenças respiratórias","HOSPITAL","40 - 79","M",5
+"1313","RJ","Outras doenças","DOMICILIO","40 - 79","F",943
+"1314","RJ","Outras doenças","DOMICILIO","40 - 79","M",1289
+"1315","RJ","Outras doenças","HOSPITAL","40 - 79","F",2297
+"1316","RJ","Outras doenças","HOSPITAL","40 - 79","M",2585
+"1317","RJ","Outras doenças","IGNORADO","40 - 79","F",8
+"1318","RJ","Outras doenças","IGNORADO","40 - 79","M",8
+"1319","RJ","Outras doenças","OUTRO","40 - 79","F",45
+"1320","RJ","Outras doenças","OUTRO","40 - 79","M",62
+"1321","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","F",642
+"1322","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","M",644
+"1323","RJ","Outras doenças","VIA_PUBLICA","40 - 79","F",12
+"1324","RJ","Outras doenças","VIA_PUBLICA","40 - 79","M",28
+"1325","RJ","COVID-19","DOMICILIO","40 - 79","F",8
+"1326","RJ","COVID-19","DOMICILIO","40 - 79","M",16
+"1327","RJ","COVID-19","HOSPITAL","40 - 79","F",1226
+"1328","RJ","COVID-19","HOSPITAL","40 - 79","M",1700
+"1329","RJ","COVID-19","IGNORADO","40 - 79","F",3
+"1330","RJ","COVID-19","IGNORADO","40 - 79","M",1
+"1331","RJ","COVID-19","OUTRO","40 - 79","F",2
+"1332","RJ","COVID-19","OUTRO","40 - 79","M",5
+"1333","RJ","COVID-19","OUTROS_SERVICOS_SAUDE","40 - 79","F",176
+"1334","RJ","COVID-19","OUTROS_SERVICOS_SAUDE","40 - 79","M",237
+"1335","RJ","Outras doenças","DOMICILIO","40 - 79","F",29
+"1336","RJ","Outras doenças","DOMICILIO","40 - 79","M",51
+"1337","RJ","Outras doenças","HOSPITAL","40 - 79","F",36
+"1338","RJ","Outras doenças","HOSPITAL","40 - 79","M",43
+"1339","RJ","Outras doenças","OUTRO","40 - 79","F",3
+"1340","RJ","Outras doenças","OUTRO","40 - 79","M",1
+"1341","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","F",21
+"1342","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE","40 - 79","M",25
+"1343","RJ","Outras doenças","VIA_PUBLICA","40 - 79","M",1
+"1344","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","F",72
+"1345","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","M",92
+"1346","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","F",441
+"1347","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","M",472
+"1348","RJ","Outras doenças respiratórias","IGNORADO","40 - 79","F",1
+"1349","RJ","Outras doenças respiratórias","OUTRO","40 - 79","F",1
+"1350","RJ","Outras doenças respiratórias","OUTRO","40 - 79","M",7
+"1351","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",96
+"1352","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",125
+"1353","RJ","Outras doenças respiratórias","VIA_PUBLICA","40 - 79","M",1
+"1354","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","F",29
+"1355","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","M",52
+"1356","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","F",1102
+"1357","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","M",1357
+"1358","RJ","Outras doenças respiratórias","IGNORADO","40 - 79","F",1
+"1359","RJ","Outras doenças respiratórias","IGNORADO","40 - 79","M",2
+"1360","RJ","Outras doenças respiratórias","OUTRO","40 - 79","F",5
+"1361","RJ","Outras doenças respiratórias","OUTRO","40 - 79","M",7
+"1362","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",181
+"1363","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",235
+"1364","RJ","Outras doenças respiratórias","VIA_PUBLICA","40 - 79","M",1
+"1365","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","F",24
+"1366","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","M",12
+"1367","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","F",1157
+"1368","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","M",1041
+"1369","RJ","Outras doenças respiratórias","IGNORADO","40 - 79","M",1
+"1370","RJ","Outras doenças respiratórias","OUTRO","40 - 79","F",4
+"1371","RJ","Outras doenças respiratórias","OUTRO","40 - 79","M",4
+"1372","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",132
+"1373","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",148
+"1374","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","F",4
+"1375","RJ","Outras doenças respiratórias","DOMICILIO","40 - 79","M",3
+"1376","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","F",89
+"1377","RJ","Outras doenças respiratórias","HOSPITAL","40 - 79","M",125
+"1378","RJ","Outras doenças respiratórias","OUTRO","40 - 79","M",1
+"1379","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","F",29
+"1380","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE","40 - 79","M",33
+"1381","DF","Outras doenças","DOMICILIO",">= 80","F",84
+"1382","DF","Outras doenças","DOMICILIO",">= 80","M",67
+"1383","DF","Outras doenças","HOSPITAL",">= 80","F",229
+"1384","DF","Outras doenças","HOSPITAL",">= 80","M",203
+"1385","DF","Outras doenças","OUTRO",">= 80","F",6
+"1386","DF","Outras doenças","OUTRO",">= 80","M",9
+"1387","DF","Outras doenças","OUTROS_SERVICOS_SAUDE",">= 80","F",10
+"1389","DF","Outras doenças","OUTROS_SERVICOS_SAUDE",">= 80","M",8
+"1390","DF","Outras doenças","VIA_PUBLICA",">= 80","F",1
+"1391","DF","Outras doenças","VIA_PUBLICA",">= 80","M",1
+"1392","DF","COVID-19","DOMICILIO",">= 80","F",3
+"1393","DF","COVID-19","DOMICILIO",">= 80","M",4
+"1394","DF","COVID-19","HOSPITAL",">= 80","F",85
+"1395","DF","COVID-19","HOSPITAL",">= 80","M",97
+"1396","DF","COVID-19","OUTRO",">= 80","F",2
+"1397","DF","COVID-19","OUTRO",">= 80","M",1
+"1398","DF","COVID-19","OUTROS_SERVICOS_SAUDE",">= 80","F",3
+"1399","DF","COVID-19","OUTROS_SERVICOS_SAUDE",">= 80","M",7
+"1400","DF","Outras doenças","HOSPITAL",">= 80","F",2
+"1401","DF","Outras doenças respiratórias","DOMICILIO",">= 80","F",3
+"1402","DF","Outras doenças respiratórias","DOMICILIO",">= 80","M",8
+"1403","DF","Outras doenças respiratórias","HOSPITAL",">= 80","F",33
+"1404","DF","Outras doenças respiratórias","HOSPITAL",">= 80","M",27
+"1405","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","F",1
+"1406","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","M",2
+"1407","DF","Outras doenças respiratórias","DOMICILIO",">= 80","F",10
+"1408","DF","Outras doenças respiratórias","DOMICILIO",">= 80","M",9
+"1409","DF","Outras doenças respiratórias","HOSPITAL",">= 80","F",199
+"1410","DF","Outras doenças respiratórias","HOSPITAL",">= 80","M",175
+"1411","DF","Outras doenças respiratórias","OUTRO",">= 80","F",3
+"1412","DF","Outras doenças respiratórias","OUTRO",">= 80","M",5
+"1413","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","F",15
+"1414","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","M",14
+"1415","DF","Outras doenças respiratórias","DOMICILIO",">= 80","F",6
+"1416","DF","Outras doenças respiratórias","DOMICILIO",">= 80","M",7
+"1417","DF","Outras doenças respiratórias","HOSPITAL",">= 80","F",113
+"1418","DF","Outras doenças respiratórias","HOSPITAL",">= 80","M",94
+"1419","DF","Outras doenças respiratórias","OUTRO",">= 80","F",3
+"1420","DF","Outras doenças respiratórias","OUTRO",">= 80","M",2
+"1421","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","F",2
+"1422","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","M",4
+"1423","DF","Outras doenças respiratórias","HOSPITAL",">= 80","F",3
+"1424","DF","Outras doenças respiratórias","HOSPITAL",">= 80","M",3
+"1425","DF","Outras doenças respiratórias","OUTRO",">= 80","F",1
+"1426","MG","Outras doenças","DOMICILIO",">= 80","F",1215
+"1427","MG","Outras doenças","DOMICILIO",">= 80","M",1149
+"1428","MG","Outras doenças","HOSPITAL",">= 80","F",1758
+"1430","MG","Outras doenças","HOSPITAL",">= 80","M",1485
+"1431","MG","Outras doenças","IGNORADO",">= 80","F",70
+"1432","MG","Outras doenças","IGNORADO",">= 80","M",78
+"1433","MG","Outras doenças","OUTRO",">= 80","F",77
+"1434","MG","Outras doenças","OUTRO",">= 80","M",61
+"1435","MG","Outras doenças","OUTROS_SERVICOS_SAUDE",">= 80","F",244
+"1436","MG","Outras doenças","OUTROS_SERVICOS_SAUDE",">= 80","M",181
+"1437","MG","Outras doenças","POSTO_SAUDE",">= 80","F",1
+"1438","MG","Outras doenças","VIA_PUBLICA",">= 80","F",22
+"1439","MG","Outras doenças","VIA_PUBLICA",">= 80","M",23
+"1440","MG","COVID-19","DOMICILIO",">= 80","F",7
+"1441","MG","COVID-19","DOMICILIO",">= 80","M",7
+"1442","MG","COVID-19","HOSPITAL",">= 80","F",134
+"1443","MG","COVID-19","HOSPITAL",">= 80","M",153
+"1444","MG","COVID-19","IGNORADO",">= 80","F",3
+"1445","MG","COVID-19","IGNORADO",">= 80","M",4
+"1446","MG","COVID-19","OUTRO",">= 80","F",1
+"1447","MG","COVID-19","OUTROS_SERVICOS_SAUDE",">= 80","F",10
+"1448","MG","COVID-19","OUTROS_SERVICOS_SAUDE",">= 80","M",7
+"1449","MG","COVID-19","VIA_PUBLICA",">= 80","M",1
+"1450","MG","Outras doenças","DOMICILIO",">= 80","F",43
+"1451","MG","Outras doenças","DOMICILIO",">= 80","M",39
+"1452","MG","Outras doenças","HOSPITAL",">= 80","F",12
+"1453","MG","Outras doenças","HOSPITAL",">= 80","M",21
+"1454","MG","Outras doenças","IGNORADO",">= 80","F",3
+"1455","MG","Outras doenças","IGNORADO",">= 80","M",11
+"1456","MG","Outras doenças","OUTRO",">= 80","F",2
+"1457","MG","Outras doenças","OUTRO",">= 80","M",3
+"1458","MG","Outras doenças","OUTROS_SERVICOS_SAUDE",">= 80","F",6
+"1459","MG","Outras doenças","OUTROS_SERVICOS_SAUDE",">= 80","M",7
+"1460","MG","Outras doenças respiratórias","DOMICILIO",">= 80","F",109
+"1461","MG","Outras doenças respiratórias","DOMICILIO",">= 80","M",112
+"1462","MG","Outras doenças respiratórias","HOSPITAL",">= 80","F",398
+"1463","MG","Outras doenças respiratórias","HOSPITAL",">= 80","M",331
+"1464","MG","Outras doenças respiratórias","IGNORADO",">= 80","F",17
+"1465","MG","Outras doenças respiratórias","IGNORADO",">= 80","M",8
+"1466","MG","Outras doenças respiratórias","OUTRO",">= 80","F",2
+"1467","MG","Outras doenças respiratórias","OUTRO",">= 80","M",8
+"1468","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","F",45
+"1469","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","M",33
+"1470","MG","Outras doenças respiratórias","VIA_PUBLICA",">= 80","F",1
+"1471","MG","Outras doenças respiratórias","VIA_PUBLICA",">= 80","M",1
+"1472","MG","Outras doenças respiratórias","DOMICILIO",">= 80","F",88
+"1473","MG","Outras doenças respiratórias","DOMICILIO",">= 80","M",89
+"1474","MG","Outras doenças respiratórias","HOSPITAL",">= 80","F",1156
+"1475","MG","Outras doenças respiratórias","HOSPITAL",">= 80","M",1130
+"1476","MG","Outras doenças respiratórias","IGNORADO",">= 80","F",32
+"1477","MG","Outras doenças respiratórias","IGNORADO",">= 80","M",32
+"1478","MG","Outras doenças respiratórias","OUTRO",">= 80","F",8
+"1479","MG","Outras doenças respiratórias","OUTRO",">= 80","M",8
+"1480","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","F",87
+"1481","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","M",74
+"1482","MG","Outras doenças respiratórias","VIA_PUBLICA",">= 80","F",1
+"1483","MG","Outras doenças respiratórias","VIA_PUBLICA",">= 80","M",2
+"1484","MG","Outras doenças respiratórias","DOMICILIO",">= 80","F",44
+"1485","MG","Outras doenças respiratórias","DOMICILIO",">= 80","M",31
+"1486","MG","Outras doenças respiratórias","HOSPITAL",">= 80","F",946
+"1487","MG","Outras doenças respiratórias","HOSPITAL",">= 80","M",747
+"1488","MG","Outras doenças respiratórias","IGNORADO",">= 80","F",19
+"1489","MG","Outras doenças respiratórias","IGNORADO",">= 80","M",11
+"1490","MG","Outras doenças respiratórias","OUTRO",">= 80","F",4
+"1491","MG","Outras doenças respiratórias","OUTRO",">= 80","M",1
+"1492","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","F",67
+"1493","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","M",54
+"1494","MG","Outras doenças respiratórias","VIA_PUBLICA",">= 80","F",1
+"1495","MG","Outras doenças respiratórias","DOMICILIO",">= 80","F",4
+"1496","MG","Outras doenças respiratórias","DOMICILIO",">= 80","M",4
+"1497","MG","Outras doenças respiratórias","HOSPITAL",">= 80","F",16
+"1498","MG","Outras doenças respiratórias","HOSPITAL",">= 80","M",20
+"1499","MG","Outras doenças respiratórias","IGNORADO",">= 80","M",2
+"1500","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","F",3
+"1501","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","M",3
+"1502","MS","Outras doenças","DOMICILIO",">= 80","F",115
+"1503","MS","Outras doenças","DOMICILIO",">= 80","M",138
+"1504","MS","Outras doenças","HOSPITAL",">= 80","F",216
+"1505","MS","Outras doenças","HOSPITAL",">= 80","M",235
+"1506","MS","Outras doenças","OUTRO",">= 80","F",7
+"1507","MS","Outras doenças","OUTRO",">= 80","M",6
+"1508","MS","Outras doenças","POSTO_SAUDE",">= 80","F",2
+"1509","MS","Outras doenças","POSTO_SAUDE",">= 80","M",2
+"1510","MS","Outras doenças","VIA_PUBLICA",">= 80","F",2
+"1511","MS","Outras doenças","VIA_PUBLICA",">= 80","M",5
+"1512","MS","COVID-19","HOSPITAL",">= 80","F",7
+"1513","MS","COVID-19","HOSPITAL",">= 80","M",12
+"1514","MS","COVID-19","OUTRO",">= 80","M",1
+"1515","MS","Outras doenças","DOMICILIO",">= 80","F",2
+"1516","MS","Outras doenças","HOSPITAL",">= 80","F",2
+"1517","MS","Outras doenças","HOSPITAL",">= 80","M",2
+"1518","MS","Outras doenças respiratórias","DOMICILIO",">= 80","F",12
+"1519","MS","Outras doenças respiratórias","DOMICILIO",">= 80","M",17
+"1520","MS","Outras doenças respiratórias","HOSPITAL",">= 80","F",50
+"1521","MS","Outras doenças respiratórias","HOSPITAL",">= 80","M",49
+"1522","MS","Outras doenças respiratórias","VIA_PUBLICA",">= 80","F",1
+"1523","MS","Outras doenças respiratórias","DOMICILIO",">= 80","F",17
+"1524","MS","Outras doenças respiratórias","DOMICILIO",">= 80","M",15
+"1525","MS","Outras doenças respiratórias","HOSPITAL",">= 80","F",185
+"1526","MS","Outras doenças respiratórias","HOSPITAL",">= 80","M",203
+"1527","MS","Outras doenças respiratórias","OUTRO",">= 80","M",1
+"1528","MS","Outras doenças respiratórias","VIA_PUBLICA",">= 80","F",1
+"1529","MS","Outras doenças respiratórias","DOMICILIO",">= 80","F",1
+"1530","MS","Outras doenças respiratórias","HOSPITAL",">= 80","F",105
+"1531","MS","Outras doenças respiratórias","HOSPITAL",">= 80","M",91
+"1532","MS","Outras doenças respiratórias","POSTO_SAUDE",">= 80","F",1
+"1533","MS","Outras doenças respiratórias","HOSPITAL",">= 80","F",3
+"1534","MS","Outras doenças respiratórias","HOSPITAL",">= 80","M",2
+"1535","RJ","Outras doenças","DOMICILIO",">= 80","F",1361
+"1537","RJ","Outras doenças","DOMICILIO",">= 80","M",1061
+"1538","RJ","Outras doenças","HOSPITAL",">= 80","F",2131
+"1539","RJ","Outras doenças","HOSPITAL",">= 80","M",1709
+"1540","RJ","Outras doenças","IGNORADO",">= 80","F",8
+"1541","RJ","Outras doenças","IGNORADO",">= 80","M",8
+"1542","RJ","Outras doenças","OUTRO",">= 80","F",79
+"1543","RJ","Outras doenças","OUTRO",">= 80","M",58
+"1544","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE",">= 80","F",591
+"1545","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE",">= 80","M",408
+"1546","RJ","Outras doenças","VIA_PUBLICA",">= 80","F",3
+"1547","RJ","Outras doenças","VIA_PUBLICA",">= 80","M",8
+"1548","RJ","COVID-19","DOMICILIO",">= 80","F",21
+"1549","RJ","COVID-19","DOMICILIO",">= 80","M",13
+"1550","RJ","COVID-19","HOSPITAL",">= 80","F",1143
+"1551","RJ","COVID-19","HOSPITAL",">= 80","M",1152
+"1552","RJ","COVID-19","IGNORADO",">= 80","F",1
+"1553","RJ","COVID-19","IGNORADO",">= 80","M",1
+"1554","RJ","COVID-19","OUTRO",">= 80","F",1
+"1555","RJ","COVID-19","OUTRO",">= 80","M",4
+"1556","RJ","COVID-19","OUTROS_SERVICOS_SAUDE",">= 80","F",127
+"1557","RJ","COVID-19","OUTROS_SERVICOS_SAUDE",">= 80","M",146
+"1558","RJ","COVID-19","VIA_PUBLICA",">= 80","F",1
+"1559","RJ","Outras doenças","DOMICILIO",">= 80","F",31
+"1560","RJ","Outras doenças","DOMICILIO",">= 80","M",31
+"1561","RJ","Outras doenças","HOSPITAL",">= 80","F",45
+"1562","RJ","Outras doenças","HOSPITAL",">= 80","M",29
+"1563","RJ","Outras doenças","IGNORADO",">= 80","M",1
+"1564","RJ","Outras doenças","OUTRO",">= 80","F",3
+"1565","RJ","Outras doenças","OUTRO",">= 80","M",1
+"1566","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE",">= 80","F",27
+"1567","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE",">= 80","M",19
+"1568","RJ","Outras doenças respiratórias","DOMICILIO",">= 80","F",99
+"1569","RJ","Outras doenças respiratórias","DOMICILIO",">= 80","M",96
+"1570","RJ","Outras doenças respiratórias","HOSPITAL",">= 80","F",448
+"1571","RJ","Outras doenças respiratórias","HOSPITAL",">= 80","M",319
+"1572","RJ","Outras doenças respiratórias","IGNORADO",">= 80","M",1
+"1573","RJ","Outras doenças respiratórias","OUTRO",">= 80","F",4
+"1574","RJ","Outras doenças respiratórias","OUTRO",">= 80","M",6
+"1575","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","F",89
+"1576","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","M",81
+"1577","RJ","Outras doenças respiratórias","VIA_PUBLICA",">= 80","F",2
+"1578","RJ","Outras doenças respiratórias","VIA_PUBLICA",">= 80","M",1
+"1579","RJ","Outras doenças respiratórias","DOMICILIO",">= 80","F",61
+"1580","RJ","Outras doenças respiratórias","DOMICILIO",">= 80","M",64
+"1581","RJ","Outras doenças respiratórias","HOSPITAL",">= 80","F",1548
+"1582","RJ","Outras doenças respiratórias","HOSPITAL",">= 80","M",1303
+"1583","RJ","Outras doenças respiratórias","IGNORADO",">= 80","F",3
+"1584","RJ","Outras doenças respiratórias","IGNORADO",">= 80","M",1
+"1585","RJ","Outras doenças respiratórias","OUTRO",">= 80","F",5
+"1586","RJ","Outras doenças respiratórias","OUTRO",">= 80","M",9
+"1587","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","F",222
+"1588","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","M",160
+"1589","RJ","Outras doenças respiratórias","VIA_PUBLICA",">= 80","F",1
+"1590","RJ","Outras doenças respiratórias","VIA_PUBLICA",">= 80","M",1
+"1591","RJ","Outras doenças respiratórias","DOMICILIO",">= 80","F",34
+"1592","RJ","Outras doenças respiratórias","DOMICILIO",">= 80","M",27
+"1593","RJ","Outras doenças respiratórias","HOSPITAL",">= 80","F",1422
+"1594","RJ","Outras doenças respiratórias","HOSPITAL",">= 80","M",856
+"1595","RJ","Outras doenças respiratórias","IGNORADO",">= 80","F",3
+"1596","RJ","Outras doenças respiratórias","IGNORADO",">= 80","M",1
+"1597","RJ","Outras doenças respiratórias","OUTRO",">= 80","F",6
+"1598","RJ","Outras doenças respiratórias","OUTRO",">= 80","M",3
+"1599","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","F",188
+"1600","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","M",97
+"1601","RJ","Outras doenças respiratórias","VIA_PUBLICA",">= 80","M",1
+"1602","RJ","Outras doenças respiratórias","DOMICILIO",">= 80","F",1
+"1603","RJ","Outras doenças respiratórias","DOMICILIO",">= 80","M",1
+"1604","RJ","Outras doenças respiratórias","HOSPITAL",">= 80","F",95
+"1605","RJ","Outras doenças respiratórias","HOSPITAL",">= 80","M",103
+"1606","RJ","Outras doenças respiratórias","IGNORADO",">= 80","M",1
+"1607","RJ","Outras doenças respiratórias","OUTRO",">= 80","F",2
+"1608","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","F",20
+"1609","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","M",10
+"1610","DF","Outras doenças","DOMICILIO",">= 80","F",55
+"1611","DF","Outras doenças","DOMICILIO",">= 80","M",19
+"1612","DF","Outras doenças","HOSPITAL",">= 80","F",93
+"1613","DF","Outras doenças","HOSPITAL",">= 80","M",56
+"1614","DF","Outras doenças","OUTRO",">= 80","F",6
+"1615","DF","Outras doenças","OUTRO",">= 80","M",3
+"1616","DF","Outras doenças","OUTROS_SERVICOS_SAUDE",">= 80","F",2
+"1617","DF","Outras doenças","OUTROS_SERVICOS_SAUDE",">= 80","M",2
+"1618","DF","COVID-19","DOMICILIO",">= 80","F",2
+"1619","DF","COVID-19","DOMICILIO",">= 80","M",2
+"1620","DF","COVID-19","HOSPITAL",">= 80","F",38
+"1621","DF","COVID-19","HOSPITAL",">= 80","M",30
+"1622","DF","COVID-19","OUTRO",">= 80","F",1
+"1623","DF","COVID-19","OUTRO",">= 80","M",1
+"1624","DF","COVID-19","OUTROS_SERVICOS_SAUDE",">= 80","F",2
+"1625","DF","COVID-19","OUTROS_SERVICOS_SAUDE",">= 80","M",1
+"1626","DF","Outras doenças","DOMICILIO",">= 80","F",1
+"1627","DF","Outras doenças","HOSPITAL",">= 80","M",1
+"1628","DF","Outras doenças","OUTRO",">= 80","F",1
+"1629","DF","Outras doenças respiratórias","DOMICILIO",">= 80","F",6
+"1630","DF","Outras doenças respiratórias","DOMICILIO",">= 80","M",7
+"1631","DF","Outras doenças respiratórias","HOSPITAL",">= 80","F",17
+"1632","DF","Outras doenças respiratórias","HOSPITAL",">= 80","M",4
+"1633","DF","Outras doenças respiratórias","OUTRO",">= 80","F",1
+"1634","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","M",3
+"1635","DF","Outras doenças respiratórias","DOMICILIO",">= 80","F",9
+"1636","DF","Outras doenças respiratórias","DOMICILIO",">= 80","M",5
+"1637","DF","Outras doenças respiratórias","HOSPITAL",">= 80","F",106
+"1638","DF","Outras doenças respiratórias","HOSPITAL",">= 80","M",76
+"1639","DF","Outras doenças respiratórias","OUTRO",">= 80","F",1
+"1640","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","F",8
+"1641","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","M",2
+"1642","DF","Outras doenças respiratórias","DOMICILIO",">= 80","F",1
+"1643","DF","Outras doenças respiratórias","DOMICILIO",">= 80","M",3
+"1644","DF","Outras doenças respiratórias","HOSPITAL",">= 80","F",57
+"1645","DF","Outras doenças respiratórias","HOSPITAL",">= 80","M",27
+"1646","DF","Outras doenças respiratórias","OUTRO",">= 80","F",1
+"1647","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","F",3
+"1648","DF","Outras doenças respiratórias","HOSPITAL",">= 80","F",1
+"1649","MG","Outras doenças","DOMICILIO",">= 80","F",913
+"1650","MG","Outras doenças","DOMICILIO",">= 80","M",489
+"1651","MG","Outras doenças","HOSPITAL",">= 80","F",807
+"1652","MG","Outras doenças","HOSPITAL",">= 80","M",499
+"1653","MG","Outras doenças","IGNORADO",">= 80","F",37
+"1654","MG","Outras doenças","IGNORADO",">= 80","M",26
+"1655","MG","Outras doenças","OUTRO",">= 80","F",53
+"1656","MG","Outras doenças","OUTRO",">= 80","M",20
+"1657","MG","Outras doenças","OUTROS_SERVICOS_SAUDE",">= 80","F",116
+"1658","MG","Outras doenças","OUTROS_SERVICOS_SAUDE",">= 80","M",68
+"1659","MG","Outras doenças","VIA_PUBLICA",">= 80","F",6
+"1660","MG","Outras doenças","VIA_PUBLICA",">= 80","M",7
+"1661","MG","COVID-19","DOMICILIO",">= 80","F",7
+"1662","MG","COVID-19","DOMICILIO",">= 80","M",3
+"1663","MG","COVID-19","HOSPITAL",">= 80","F",51
+"1664","MG","COVID-19","HOSPITAL",">= 80","M",42
+"1665","MG","COVID-19","IGNORADO",">= 80","M",1
+"1666","MG","COVID-19","OUTROS_SERVICOS_SAUDE",">= 80","F",6
+"1667","MG","COVID-19","OUTROS_SERVICOS_SAUDE",">= 80","M",5
+"1668","MG","Outras doenças","DOMICILIO",">= 80","F",24
+"1669","MG","Outras doenças","DOMICILIO",">= 80","M",22
+"1670","MG","Outras doenças","HOSPITAL",">= 80","F",14
+"1671","MG","Outras doenças","HOSPITAL",">= 80","M",8
+"1672","MG","Outras doenças","IGNORADO",">= 80","F",2
+"1673","MG","Outras doenças","IGNORADO",">= 80","M",1
+"1674","MG","Outras doenças respiratórias","DOMICILIO",">= 80","F",84
+"1675","MG","Outras doenças respiratórias","DOMICILIO",">= 80","M",67
+"1676","MG","Outras doenças respiratórias","HOSPITAL",">= 80","F",187
+"1677","MG","Outras doenças respiratórias","HOSPITAL",">= 80","M",137
+"1678","MG","Outras doenças respiratórias","IGNORADO",">= 80","F",9
+"1679","MG","Outras doenças respiratórias","IGNORADO",">= 80","M",2
+"1680","MG","Outras doenças respiratórias","OUTRO",">= 80","F",3
+"1681","MG","Outras doenças respiratórias","OUTRO",">= 80","M",2
+"1682","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","F",23
+"1683","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","M",16
+"1684","MG","Outras doenças respiratórias","DOMICILIO",">= 80","F",94
+"1685","MG","Outras doenças respiratórias","DOMICILIO",">= 80","M",70
+"1686","MG","Outras doenças respiratórias","HOSPITAL",">= 80","F",764
+"1687","MG","Outras doenças respiratórias","HOSPITAL",">= 80","M",534
+"1688","MG","Outras doenças respiratórias","IGNORADO",">= 80","F",17
+"1689","MG","Outras doenças respiratórias","IGNORADO",">= 80","M",10
+"1690","MG","Outras doenças respiratórias","OUTRO",">= 80","F",9
+"1691","MG","Outras doenças respiratórias","OUTRO",">= 80","M",3
+"1692","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","F",52
+"1693","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","M",33
+"1694","MG","Outras doenças respiratórias","VIA_PUBLICA",">= 80","F",1
+"1695","MG","Outras doenças respiratórias","DOMICILIO",">= 80","F",37
+"1696","MG","Outras doenças respiratórias","DOMICILIO",">= 80","M",25
+"1697","MG","Outras doenças respiratórias","HOSPITAL",">= 80","F",493
+"1698","MG","Outras doenças respiratórias","HOSPITAL",">= 80","M",251
+"1699","MG","Outras doenças respiratórias","IGNORADO",">= 80","F",10
+"1700","MG","Outras doenças respiratórias","IGNORADO",">= 80","M",11
+"1701","MG","Outras doenças respiratórias","OUTRO",">= 80","F",4
+"1702","MG","Outras doenças respiratórias","OUTRO",">= 80","M",2
+"1703","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","F",38
+"1704","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","M",14
+"1705","MG","Outras doenças respiratórias","DOMICILIO",">= 80","F",5
+"1706","MG","Outras doenças respiratórias","DOMICILIO",">= 80","M",6
+"1707","MG","Outras doenças respiratórias","HOSPITAL",">= 80","F",13
+"1708","MG","Outras doenças respiratórias","HOSPITAL",">= 80","M",9
+"1709","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","M",1
+"1710","MS","Outras doenças","DOMICILIO",">= 80","F",72
+"1711","MS","Outras doenças","DOMICILIO",">= 80","M",72
+"1712","MS","Outras doenças","HOSPITAL",">= 80","F",96
+"1713","MS","Outras doenças","HOSPITAL",">= 80","M",72
+"1714","MS","Outras doenças","OUTRO",">= 80","F",3
+"1715","MS","Outras doenças","OUTRO",">= 80","M",4
+"1716","MS","Outras doenças","POSTO_SAUDE",">= 80","F",1
+"1717","MS","Outras doenças","POSTO_SAUDE",">= 80","M",1
+"1718","MS","Outras doenças","VIA_PUBLICA",">= 80","F",1
+"1719","MS","Outras doenças","VIA_PUBLICA",">= 80","M",1
+"1720","MS","COVID-19","HOSPITAL",">= 80","F",3
+"1721","MS","COVID-19","HOSPITAL",">= 80","M",3
+"1722","MS","Outras doenças","DOMICILIO",">= 80","M",2
+"1723","MS","Outras doenças","HOSPITAL",">= 80","F",1
+"1724","MS","Outras doenças respiratórias","DOMICILIO",">= 80","F",8
+"1725","MS","Outras doenças respiratórias","DOMICILIO",">= 80","M",9
+"1726","MS","Outras doenças respiratórias","HOSPITAL",">= 80","F",21
+"1727","MS","Outras doenças respiratórias","HOSPITAL",">= 80","M",14
+"1728","MS","Outras doenças respiratórias","OUTRO",">= 80","M",1
+"1729","MS","Outras doenças respiratórias","DOMICILIO",">= 80","F",8
+"1730","MS","Outras doenças respiratórias","DOMICILIO",">= 80","M",6
+"1731","MS","Outras doenças respiratórias","HOSPITAL",">= 80","F",101
+"1732","MS","Outras doenças respiratórias","HOSPITAL",">= 80","M",82
+"1733","MS","Outras doenças respiratórias","OUTRO",">= 80","F",1
+"1734","MS","Outras doenças respiratórias","POSTO_SAUDE",">= 80","M",2
+"1735","MS","Outras doenças respiratórias","DOMICILIO",">= 80","F",2
+"1736","MS","Outras doenças respiratórias","DOMICILIO",">= 80","M",1
+"1737","MS","Outras doenças respiratórias","HOSPITAL",">= 80","F",40
+"1738","MS","Outras doenças respiratórias","HOSPITAL",">= 80","M",20
+"1739","MS","Outras doenças respiratórias","POSTO_SAUDE",">= 80","F",1
+"1740","MS","Outras doenças respiratórias","HOSPITAL",">= 80","F",1
+"1741","MS","Outras doenças respiratórias","HOSPITAL",">= 80","M",1
+"1742","RJ","Outras doenças","DOMICILIO",">= 80","F",1043
+"1743","RJ","Outras doenças","DOMICILIO",">= 80","M",464
+"1744","RJ","Outras doenças","HOSPITAL",">= 80","F",1084
+"1745","RJ","Outras doenças","HOSPITAL",">= 80","M",517
+"1746","RJ","Outras doenças","IGNORADO",">= 80","F",4
+"1747","RJ","Outras doenças","IGNORADO",">= 80","M",4
+"1748","RJ","Outras doenças","OUTRO",">= 80","F",60
+"1749","RJ","Outras doenças","OUTRO",">= 80","M",20
+"1750","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE",">= 80","F",283
+"1751","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE",">= 80","M",122
+"1752","RJ","Outras doenças","VIA_PUBLICA",">= 80","F",1
+"1753","RJ","Outras doenças","VIA_PUBLICA",">= 80","M",4
+"1754","RJ","COVID-19","DOMICILIO",">= 80","F",14
+"1755","RJ","COVID-19","DOMICILIO",">= 80","M",7
+"1756","RJ","COVID-19","HOSPITAL",">= 80","F",564
+"1757","RJ","COVID-19","HOSPITAL",">= 80","M",325
+"1758","RJ","COVID-19","OUTRO",">= 80","F",1
+"1759","RJ","COVID-19","OUTRO",">= 80","M",3
+"1760","RJ","COVID-19","OUTROS_SERVICOS_SAUDE",">= 80","F",54
+"1761","RJ","COVID-19","OUTROS_SERVICOS_SAUDE",">= 80","M",36
+"1762","RJ","Outras doenças","DOMICILIO",">= 80","F",24
+"1763","RJ","Outras doenças","DOMICILIO",">= 80","M",12
+"1764","RJ","Outras doenças","HOSPITAL",">= 80","F",18
+"1765","RJ","Outras doenças","HOSPITAL",">= 80","M",16
+"1766","RJ","Outras doenças","OUTRO",">= 80","F",1
+"1767","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE",">= 80","F",11
+"1768","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE",">= 80","M",7
+"1769","RJ","Outras doenças respiratórias","DOMICILIO",">= 80","F",87
+"1770","RJ","Outras doenças respiratórias","DOMICILIO",">= 80","M",45
+"1771","RJ","Outras doenças respiratórias","HOSPITAL",">= 80","F",224
+"1772","RJ","Outras doenças respiratórias","HOSPITAL",">= 80","M",98
+"1773","RJ","Outras doenças respiratórias","OUTRO",">= 80","F",1
+"1774","RJ","Outras doenças respiratórias","OUTRO",">= 80","M",3
+"1775","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","F",51
+"1776","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","M",21
+"1777","RJ","Outras doenças respiratórias","DOMICILIO",">= 80","F",93
+"1778","RJ","Outras doenças respiratórias","DOMICILIO",">= 80","M",34
+"1779","RJ","Outras doenças respiratórias","HOSPITAL",">= 80","F",1032
+"1780","RJ","Outras doenças respiratórias","HOSPITAL",">= 80","M",544
+"1781","RJ","Outras doenças respiratórias","IGNORADO",">= 80","F",4
+"1782","RJ","Outras doenças respiratórias","IGNORADO",">= 80","M",1
+"1783","RJ","Outras doenças respiratórias","OUTRO",">= 80","F",6
+"1784","RJ","Outras doenças respiratórias","OUTRO",">= 80","M",5
+"1785","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","F",119
+"1786","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","M",72
+"1787","RJ","Outras doenças respiratórias","DOMICILIO",">= 80","F",37
+"1788","RJ","Outras doenças respiratórias","DOMICILIO",">= 80","M",9
+"1789","RJ","Outras doenças respiratórias","HOSPITAL",">= 80","F",753
+"1790","RJ","Outras doenças respiratórias","HOSPITAL",">= 80","M",324
+"1791","RJ","Outras doenças respiratórias","OUTRO",">= 80","F",4
+"1792","RJ","Outras doenças respiratórias","OUTRO",">= 80","M",1
+"1793","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","F",106
+"1794","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","M",36
+"1795","RJ","Outras doenças respiratórias","DOMICILIO",">= 80","F",3
+"1796","RJ","Outras doenças respiratórias","HOSPITAL",">= 80","F",40
+"1797","RJ","Outras doenças respiratórias","HOSPITAL",">= 80","M",22
+"1798","RJ","Outras doenças respiratórias","OUTRO",">= 80","F",1
+"1799","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","F",6
+"1800","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","M",8
+"1801","DF","Outras doenças","DOMICILIO",">= 80","F",8
+"1802","DF","Outras doenças","DOMICILIO",">= 80","M",4
+"1803","DF","Outras doenças","HOSPITAL",">= 80","F",10
+"1804","DF","Outras doenças","HOSPITAL",">= 80","M",5
+"1805","DF","Outras doenças","OUTRO",">= 80","F",1
+"1806","DF","Outras doenças","OUTRO",">= 80","M",1
+"1807","DF","Outras doenças","OUTROS_SERVICOS_SAUDE",">= 80","M",1
+"1808","DF","COVID-19","DOMICILIO",">= 80","F",1
+"1809","DF","COVID-19","DOMICILIO",">= 80","M",1
+"1810","DF","COVID-19","HOSPITAL",">= 80","F",1
+"1811","DF","COVID-19","HOSPITAL",">= 80","M",1
+"1812","DF","Outras doenças","DOMICILIO",">= 80","M",1
+"1813","DF","Outras doenças respiratórias","DOMICILIO",">= 80","F",2
+"1814","DF","Outras doenças respiratórias","DOMICILIO",">= 80","M",1
+"1815","DF","Outras doenças respiratórias","HOSPITAL",">= 80","M",1
+"1816","DF","Outras doenças respiratórias","DOMICILIO",">= 80","F",3
+"1817","DF","Outras doenças respiratórias","DOMICILIO",">= 80","M",1
+"1818","DF","Outras doenças respiratórias","HOSPITAL",">= 80","F",12
+"1819","DF","Outras doenças respiratórias","HOSPITAL",">= 80","M",4
+"1820","DF","Outras doenças respiratórias","DOMICILIO",">= 80","F",1
+"1821","DF","Outras doenças respiratórias","DOMICILIO",">= 80","M",1
+"1822","DF","Outras doenças respiratórias","HOSPITAL",">= 80","F",1
+"1823","DF","Outras doenças respiratórias","HOSPITAL",">= 80","M",1
+"1824","DF","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","M",1
+"1825","DF","Outras doenças respiratórias","HOSPITAL",">= 80","M",1
+"1826","MG","Outras doenças","DOMICILIO",">= 80","F",113
+"1827","MG","Outras doenças","DOMICILIO",">= 80","M",39
+"1828","MG","Outras doenças","HOSPITAL",">= 80","F",63
+"1829","MG","Outras doenças","HOSPITAL",">= 80","M",38
+"1830","MG","Outras doenças","IGNORADO",">= 80","F",4
+"1831","MG","Outras doenças","IGNORADO",">= 80","M",4
+"1832","MG","Outras doenças","OUTRO",">= 80","F",5
+"1833","MG","Outras doenças","OUTROS_SERVICOS_SAUDE",">= 80","F",11
+"1834","MG","Outras doenças","OUTROS_SERVICOS_SAUDE",">= 80","M",5
+"1835","MG","Outras doenças","VIA_PUBLICA",">= 80","F",2
+"1836","MG","Outras doenças","VIA_PUBLICA",">= 80","M",1
+"1837","MG","COVID-19","HOSPITAL",">= 80","F",12
+"1838","MG","COVID-19","HOSPITAL",">= 80","M",1
+"1839","MG","COVID-19","OUTROS_SERVICOS_SAUDE",">= 80","M",1
+"1840","MG","Outras doenças","DOMICILIO",">= 80","F",3
+"1841","MG","Outras doenças","DOMICILIO",">= 80","M",5
+"1842","MG","Outras doenças","HOSPITAL",">= 80","F",1
+"1843","MG","Outras doenças","IGNORADO",">= 80","F",1
+"1844","MG","Outras doenças respiratórias","DOMICILIO",">= 80","F",17
+"1845","MG","Outras doenças respiratórias","DOMICILIO",">= 80","M",7
+"1846","MG","Outras doenças respiratórias","HOSPITAL",">= 80","F",18
+"1847","MG","Outras doenças respiratórias","HOSPITAL",">= 80","M",6
+"1848","MG","Outras doenças respiratórias","IGNORADO",">= 80","M",2
+"1849","MG","Outras doenças respiratórias","OUTRO",">= 80","F",1
+"1850","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","F",2
+"1851","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","M",2
+"1852","MG","Outras doenças respiratórias","DOMICILIO",">= 80","F",15
+"1853","MG","Outras doenças respiratórias","DOMICILIO",">= 80","M",7
+"1854","MG","Outras doenças respiratórias","HOSPITAL",">= 80","F",84
+"1855","MG","Outras doenças respiratórias","HOSPITAL",">= 80","M",37
+"1856","MG","Outras doenças respiratórias","IGNORADO",">= 80","F",3
+"1857","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","F",4
+"1858","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","M",2
+"1859","MG","Outras doenças respiratórias","DOMICILIO",">= 80","F",5
+"1860","MG","Outras doenças respiratórias","DOMICILIO",">= 80","M",1
+"1861","MG","Outras doenças respiratórias","HOSPITAL",">= 80","F",26
+"1862","MG","Outras doenças respiratórias","HOSPITAL",">= 80","M",11
+"1863","MG","Outras doenças respiratórias","IGNORADO",">= 80","M",1
+"1864","MG","Outras doenças respiratórias","OUTRO",">= 80","F",1
+"1865","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","F",5
+"1866","MG","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","M",2
+"1867","MG","Outras doenças respiratórias","DOMICILIO",">= 80","F",1
+"1868","MG","Outras doenças respiratórias","DOMICILIO",">= 80","M",3
+"1869","MG","Outras doenças respiratórias","HOSPITAL",">= 80","F",1
+"1870","MG","Outras doenças respiratórias","HOSPITAL",">= 80","M",1
+"1871","MS","Outras doenças","DOMICILIO",">= 80","F",13
+"1872","MS","Outras doenças","DOMICILIO",">= 80","M",9
+"1873","MS","Outras doenças","HOSPITAL",">= 80","F",6
+"1874","MS","Outras doenças","HOSPITAL",">= 80","M",3
+"1875","MS","Outras doenças","VIA_PUBLICA",">= 80","F",1
+"1876","MS","Outras doenças respiratórias","DOMICILIO",">= 80","F",2
+"1877","MS","Outras doenças respiratórias","HOSPITAL",">= 80","F",4
+"1878","MS","Outras doenças respiratórias","HOSPITAL",">= 80","M",1
+"1879","MS","Outras doenças respiratórias","DOMICILIO",">= 80","F",1
+"1880","MS","Outras doenças respiratórias","DOMICILIO",">= 80","M",2
+"1881","MS","Outras doenças respiratórias","HOSPITAL",">= 80","F",4
+"1882","MS","Outras doenças respiratórias","HOSPITAL",">= 80","M",7
+"1883","MS","Outras doenças respiratórias","HOSPITAL",">= 80","F",4
+"1884","RJ","Outras doenças","DOMICILIO",">= 80","F",130
+"1885","RJ","Outras doenças","DOMICILIO",">= 80","M",29
+"1886","RJ","Outras doenças","HOSPITAL",">= 80","F",88
+"1887","RJ","Outras doenças","HOSPITAL",">= 80","M",27
+"1888","RJ","Outras doenças","IGNORADO",">= 80","F",1
+"1889","RJ","Outras doenças","OUTRO",">= 80","F",11
+"1890","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE",">= 80","F",33
+"1891","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE",">= 80","M",6
+"1892","RJ","COVID-19","DOMICILIO",">= 80","F",1
+"1893","RJ","COVID-19","HOSPITAL",">= 80","F",25
+"1894","RJ","COVID-19","HOSPITAL",">= 80","M",10
+"1895","RJ","COVID-19","OUTROS_SERVICOS_SAUDE",">= 80","F",1
+"1896","RJ","COVID-19","OUTROS_SERVICOS_SAUDE",">= 80","M",2
+"1897","RJ","Outras doenças","DOMICILIO",">= 80","F",5
+"1898","RJ","Outras doenças","DOMICILIO",">= 80","M",1
+"1899","RJ","Outras doenças","HOSPITAL",">= 80","F",2
+"1900","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE",">= 80","F",1
+"1901","RJ","Outras doenças","OUTROS_SERVICOS_SAUDE",">= 80","M",1
+"1902","RJ","Outras doenças respiratórias","DOMICILIO",">= 80","F",13
+"1903","RJ","Outras doenças respiratórias","DOMICILIO",">= 80","M",3
+"1904","RJ","Outras doenças respiratórias","HOSPITAL",">= 80","F",12
+"1905","RJ","Outras doenças respiratórias","HOSPITAL",">= 80","M",5
+"1906","RJ","Outras doenças respiratórias","OUTRO",">= 80","F",2
+"1907","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","F",2
+"1908","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","M",1
+"1909","RJ","Outras doenças respiratórias","DOMICILIO",">= 80","F",6
+"1910","RJ","Outras doenças respiratórias","DOMICILIO",">= 80","M",4
+"1911","RJ","Outras doenças respiratórias","HOSPITAL",">= 80","F",85
+"1912","RJ","Outras doenças respiratórias","HOSPITAL",">= 80","M",19
+"1913","RJ","Outras doenças respiratórias","IGNORADO",">= 80","F",1
+"1914","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","F",5
+"1915","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","M",4
+"1916","RJ","Outras doenças respiratórias","DOMICILIO",">= 80","F",2
+"1917","RJ","Outras doenças respiratórias","HOSPITAL",">= 80","F",61
+"1918","RJ","Outras doenças respiratórias","HOSPITAL",">= 80","M",14
+"1919","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","F",4
+"1920","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","M",1
+"1921","RJ","Outras doenças respiratórias","DOMICILIO",">= 80","F",1
+"1922","RJ","Outras doenças respiratórias","HOSPITAL",">= 80","F",1
+"1923","RJ","Outras doenças respiratórias","OUTROS_SERVICOS_SAUDE",">= 80","F",1
